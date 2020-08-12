@@ -7,7 +7,7 @@ package testgraph
 import (
 	"math"
 
-	"neoyagami/gonum/graph"
+	"github.com/neoyagami/gonum/graph"
 )
 
 // node is a graph.Node implementation that is not exported

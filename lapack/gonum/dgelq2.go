@@ -4,7 +4,7 @@
 
 package gonum
 
-import "neoyagami/gonum/blas"
+import "github.com/neoyagami/gonum/blas"
 
 // Dgelq2 computes the LQ factorization of the m×n matrix A.
 //

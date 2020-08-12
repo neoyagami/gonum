@@ -7,8 +7,8 @@ package fd
 import (
 	"testing"
 
-	"neoyagami/gonum/floats/scalar"
-	"neoyagami/gonum/mat"
+	"github.com/neoyagami/gonum/floats/scalar"
+	"github.com/neoyagami/gonum/mat"
 )
 
 func TestLaplacian(t *testing.T) {

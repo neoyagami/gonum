@@ -9,8 +9,8 @@ import (
 
 	"golang.org/x/exp/rand"
 
-	"neoyagami/gonum/mat"
-	"neoyagami/gonum/stat/distmv"
+	"github.com/neoyagami/gonum/mat"
+	"github.com/neoyagami/gonum/stat/distmv"
 )
 
 var _ Sampler = MetropolisHastingser{}

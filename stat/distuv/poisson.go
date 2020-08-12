@@ -9,7 +9,7 @@ import (
 
 	"golang.org/x/exp/rand"
 
-	"neoyagami/gonum/mathext"
+	"github.com/neoyagami/gonum/mathext"
 )
 
 // Poisson implements the Poisson distribution, a discrete probability distribution

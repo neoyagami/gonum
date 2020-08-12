@@ -10,8 +10,8 @@ import (
 	"fmt"
 	"math"
 
-	"neoyagami/gonum/floats"
-	"neoyagami/gonum/mat"
+	"github.com/neoyagami/gonum/floats"
+	"github.com/neoyagami/gonum/mat"
 )
 
 // TODO(btracey): Could have a solver structure with an abstract factorizer. With

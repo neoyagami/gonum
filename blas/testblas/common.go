@@ -11,8 +11,8 @@ import (
 
 	"golang.org/x/exp/rand"
 
-	"neoyagami/gonum/blas"
-	"neoyagami/gonum/floats/scalar"
+	"github.com/neoyagami/gonum/blas"
+	"github.com/neoyagami/gonum/floats/scalar"
 )
 
 // throwPanic will throw unexpected panics if true, or will just report them as errors if false

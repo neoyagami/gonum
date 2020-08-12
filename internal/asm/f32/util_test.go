@@ -8,7 +8,7 @@ import (
 	"math"
 	"testing"
 
-	"neoyagami/gonum/floats/scalar"
+	"github.com/neoyagami/gonum/floats/scalar"
 )
 
 const (

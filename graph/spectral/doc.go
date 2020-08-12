@@ -3,4 +3,4 @@
 // license that can be found in the LICENSE file.
 
 // Package spectral provides graph spectral analysis functions.
-package spectral // import "neoyagami/gonum/graph/spectral"
+package spectral // import "github.com/neoyagami/gonum/graph/spectral"

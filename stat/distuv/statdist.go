@@ -7,7 +7,7 @@ package distuv
 import (
 	"math"
 
-	"neoyagami/gonum/mathext"
+	"github.com/neoyagami/gonum/mathext"
 )
 
 // Bhattacharyya is a type for computing the Bhattacharyya distance between

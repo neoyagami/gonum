@@ -3,7 +3,7 @@
 // license that can be found in the LICENSE file.
 
 // Package graph6 implements graphs specified by graph6 strings.
-package graph6 // import "neoyagami/gonum/graph/encoding/graph6"
+package graph6 // import "github.com/neoyagami/gonum/graph/encoding/graph6"
 
 import (
 	"fmt"
@@ -11,10 +11,10 @@ import (
 	"sort"
 	"strings"
 
-	"neoyagami/gonum/graph"
-	"neoyagami/gonum/graph/internal/ordered"
-	"neoyagami/gonum/graph/iterator"
-	"neoyagami/gonum/graph/simple"
+	"github.com/neoyagami/gonum/graph"
+	"github.com/neoyagami/gonum/graph/internal/ordered"
+	"github.com/neoyagami/gonum/graph/iterator"
+	"github.com/neoyagami/gonum/graph/simple"
 )
 
 // Graph is a graph6-represented undirected graph.

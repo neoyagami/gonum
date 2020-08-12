@@ -4,7 +4,7 @@
 
 // Package testgraph provides a set of testing helper functions
 // that test Gonum graph interface implementations.
-package testgraph // import "neoyagami/gonum/graph/testgraph"
+package testgraph // import "github.com/neoyagami/gonum/graph/testgraph"
 
 import (
 	"fmt"
@@ -14,11 +14,11 @@ import (
 
 	"golang.org/x/exp/rand"
 
-	"neoyagami/gonum/floats/scalar"
-	"neoyagami/gonum/graph"
-	"neoyagami/gonum/graph/internal/ordered"
-	"neoyagami/gonum/graph/internal/set"
-	"neoyagami/gonum/mat"
+	"github.com/neoyagami/gonum/floats/scalar"
+	"github.com/neoyagami/gonum/graph"
+	"github.com/neoyagami/gonum/graph/internal/ordered"
+	"github.com/neoyagami/gonum/graph/internal/set"
+	"github.com/neoyagami/gonum/mat"
 )
 
 // BUG(kortschak): Edge equality is tested in part with reflect.DeepEqual and

@@ -5,8 +5,8 @@
 package gonum
 
 import (
-	"neoyagami/gonum/blas"
-	"neoyagami/gonum/lapack"
+	"github.com/neoyagami/gonum/blas"
+	"github.com/neoyagami/gonum/lapack"
 )
 
 // Dormlq multiplies the matrix C by the orthogonal matrix Q defined by the

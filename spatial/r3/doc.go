@@ -3,4 +3,4 @@
 // license that can be found in the LICENSE file.
 
 // Package r3 provides 3D vectors and boxes and operations on them.
-package r3 // import "neoyagami/gonum/spatial/r3"
+package r3 // import "github.com/neoyagami/gonum/spatial/r3"

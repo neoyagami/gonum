@@ -4,4 +4,4 @@
 
 // Package graphql implements JSON marshaling and unmarshaling of graph as
 // used by GraphQL
-package graphql // import "neoyagami/gonum/graph/encoding/graphql"
+package graphql // import "github.com/neoyagami/gonum/graph/encoding/graphql"

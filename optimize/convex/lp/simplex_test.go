@@ -9,8 +9,8 @@ import (
 
 	"golang.org/x/exp/rand"
 
-	"neoyagami/gonum/floats/scalar"
-	"neoyagami/gonum/mat"
+	"github.com/neoyagami/gonum/floats/scalar"
+	"github.com/neoyagami/gonum/mat"
 )
 
 const convergenceTol = 1e-10

@@ -10,7 +10,7 @@ import (
 
 	"golang.org/x/exp/rand"
 
-	"neoyagami/gonum/mat"
+	"github.com/neoyagami/gonum/mat"
 )
 
 func TestDirichlet(t *testing.T) {

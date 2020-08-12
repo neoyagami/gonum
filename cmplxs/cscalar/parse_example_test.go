@@ -10,9 +10,9 @@ import (
 	"log"
 	"strings"
 
-	"neoyagami/gonum/cmplxs"
-	"neoyagami/gonum/cmplxs/cscalar"
-	"neoyagami/gonum/floats"
+	"github.com/neoyagami/gonum/cmplxs"
+	"github.com/neoyagami/gonum/cmplxs/cscalar"
+	"github.com/neoyagami/gonum/floats"
 )
 
 func ExampleParseWithNA() {

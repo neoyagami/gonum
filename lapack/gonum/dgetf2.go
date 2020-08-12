@@ -7,7 +7,7 @@ package gonum
 import (
 	"math"
 
-	"neoyagami/gonum/blas/blas64"
+	"github.com/neoyagami/gonum/blas/blas64"
 )
 
 // Dgetf2 computes the LU decomposition of the m×n matrix A.

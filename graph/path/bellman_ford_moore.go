@@ -5,8 +5,8 @@
 package path
 
 import (
-	"neoyagami/gonum/graph"
-	"neoyagami/gonum/graph/internal/linear"
+	"github.com/neoyagami/gonum/graph"
+	"github.com/neoyagami/gonum/graph/internal/linear"
 )
 
 // BellmanFordFrom returns a shortest-path tree for a shortest path from u to all nodes in

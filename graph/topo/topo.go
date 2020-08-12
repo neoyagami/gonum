@@ -7,9 +7,9 @@ package topo
 import (
 	"sort"
 
-	"neoyagami/gonum/graph"
-	"neoyagami/gonum/graph/internal/ordered"
-	"neoyagami/gonum/graph/traverse"
+	"github.com/neoyagami/gonum/graph"
+	"github.com/neoyagami/gonum/graph/internal/ordered"
+	"github.com/neoyagami/gonum/graph/traverse"
 )
 
 // IsPathIn returns whether path is a path in g.

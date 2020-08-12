@@ -4,7 +4,7 @@
 
 package blas64
 
-import "neoyagami/gonum/blas"
+import "github.com/neoyagami/gonum/blas"
 
 // GeneralCols represents a matrix using the conventional column-major storage scheme.
 type GeneralCols General

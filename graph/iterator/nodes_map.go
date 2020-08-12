@@ -6,7 +6,7 @@
 
 package iterator
 
-import "neoyagami/gonum/graph"
+import "github.com/neoyagami/gonum/graph"
 
 // Nodes implements the graph.Nodes interfaces.
 // The iteration order of Nodes is randomized.

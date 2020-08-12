@@ -8,9 +8,9 @@ import (
 	"fmt"
 	"math"
 
-	"neoyagami/gonum/floats"
-	"neoyagami/gonum/mat"
-	"neoyagami/gonum/stat/spatial"
+	"github.com/neoyagami/gonum/floats"
+	"github.com/neoyagami/gonum/mat"
+	"github.com/neoyagami/gonum/stat/spatial"
 )
 
 // Euclid is a mat.Matrix whose elements refects the Euclidean

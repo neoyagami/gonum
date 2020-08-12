@@ -3,4 +3,4 @@
 // license that can be found in the LICENSE file.
 
 // Package scalar provides a set of helper routines for dealing with float64 values.
-package scalar // import "neoyagami/gonum/floats/scalar"
+package scalar // import "github.com/neoyagami/gonum/floats/scalar"

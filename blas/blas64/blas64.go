@@ -5,15 +5,15 @@
 package blas64
 
 import (
-	"neoyagami/gonum/blas"
-	"neoyagami/gonum/blas/gonum"
+	"github.com/neoyagami/gonum/blas"
+	"github.com/neoyagami/gonum/blas/gonum"
 )
 
 var blas64 blas.Float64 = gonum.Implementation{}
 
 // Use sets the BLAS float64 implementation to be used by subsequent BLAS calls.
 // The default implementation is
-// neoyagami/gonum/blas/gonum.Implementation.
+// github.com/neoyagami/gonum/blas/gonum.Implementation.
 func Use(b blas.Float64) {
 	blas64 = b
 }

@@ -16,7 +16,7 @@ import (
 	"io/ioutil"
 	"unicode/utf8"
 
-	"neoyagami/gonum/graph/formats/dot/internal/token"
+	"github.com/neoyagami/gonum/graph/formats/dot/internal/token"
 )
 
 const (

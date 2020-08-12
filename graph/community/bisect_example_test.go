@@ -11,9 +11,9 @@ import (
 
 	"golang.org/x/exp/rand"
 
-	"neoyagami/gonum/graph/community"
-	"neoyagami/gonum/graph/internal/ordered"
-	"neoyagami/gonum/graph/simple"
+	"github.com/neoyagami/gonum/graph/community"
+	"github.com/neoyagami/gonum/graph/internal/ordered"
+	"github.com/neoyagami/gonum/graph/simple"
 )
 
 func ExampleProfile_simple() {

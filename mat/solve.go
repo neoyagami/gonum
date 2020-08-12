@@ -5,9 +5,9 @@
 package mat
 
 import (
-	"neoyagami/gonum/blas"
-	"neoyagami/gonum/blas/blas64"
-	"neoyagami/gonum/lapack/lapack64"
+	"github.com/neoyagami/gonum/blas"
+	"github.com/neoyagami/gonum/blas/blas64"
+	"github.com/neoyagami/gonum/lapack/lapack64"
 )
 
 // Solve solves the linear least squares problem

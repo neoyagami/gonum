@@ -7,7 +7,7 @@ package testblas
 import (
 	"testing"
 
-	"neoyagami/gonum/blas"
+	"github.com/neoyagami/gonum/blas"
 )
 
 type Zhpr2er interface {

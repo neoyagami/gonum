@@ -5,8 +5,8 @@
 package gonum
 
 import (
-	"neoyagami/gonum/blas"
-	"neoyagami/gonum/lapack"
+	"github.com/neoyagami/gonum/blas"
+	"github.com/neoyagami/gonum/lapack"
 )
 
 // Dormbr applies a multiplicative update to the matrix C based on a

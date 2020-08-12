@@ -9,9 +9,9 @@ import (
 	"math"
 	"math/cmplx"
 
-	"neoyagami/gonum/dsp/fourier"
-	"neoyagami/gonum/floats/scalar"
-	"neoyagami/gonum/mat"
+	"github.com/neoyagami/gonum/dsp/fourier"
+	"github.com/neoyagami/gonum/floats/scalar"
+	"github.com/neoyagami/gonum/mat"
 )
 
 func ExampleFFT_Coefficients() {

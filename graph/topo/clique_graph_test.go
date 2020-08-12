@@ -8,9 +8,9 @@ import (
 	"fmt"
 	"testing"
 
-	"neoyagami/gonum/graph/encoding"
-	"neoyagami/gonum/graph/encoding/dot"
-	"neoyagami/gonum/graph/simple"
+	"github.com/neoyagami/gonum/graph/encoding"
+	"github.com/neoyagami/gonum/graph/encoding/dot"
+	"github.com/neoyagami/gonum/graph/simple"
 )
 
 var cliqueGraphTests = []struct {

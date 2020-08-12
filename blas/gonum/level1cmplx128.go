@@ -7,8 +7,8 @@ package gonum
 import (
 	"math"
 
-	"neoyagami/gonum/blas"
-	"neoyagami/gonum/internal/asm/c128"
+	"github.com/neoyagami/gonum/blas"
+	"github.com/neoyagami/gonum/internal/asm/c128"
 )
 
 var _ blas.Complex128Level1 = Implementation{}

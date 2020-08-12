@@ -7,7 +7,7 @@ package gonum
 import (
 	"math"
 
-	"neoyagami/gonum/blas/blas64"
+	"github.com/neoyagami/gonum/blas/blas64"
 )
 
 // Dlahqr computes the eigenvalues and Schur factorization of a block of an n×n

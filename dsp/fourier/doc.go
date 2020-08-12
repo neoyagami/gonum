@@ -3,4 +3,4 @@
 // license that can be found in the LICENSE file.
 
 // Package fourier provides functions to perform Discrete Fourier Transforms.
-package fourier // import "neoyagami/gonum/dsp/fourier"
+package fourier // import "github.com/neoyagami/gonum/dsp/fourier"

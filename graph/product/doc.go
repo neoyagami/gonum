@@ -15,4 +15,4 @@
 //
 // See https://en.wikipedia.org/wiki/Graph_product for more details
 // about graph products.
-package product // import "neoyagami/gonum/graph/product"
+package product // import "github.com/neoyagami/gonum/graph/product"

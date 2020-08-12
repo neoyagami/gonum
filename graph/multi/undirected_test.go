@@ -10,11 +10,11 @@ import (
 
 	"golang.org/x/exp/rand"
 
-	"neoyagami/gonum/graph"
-	"neoyagami/gonum/graph/internal/set"
-	"neoyagami/gonum/graph/iterator"
-	"neoyagami/gonum/graph/multi"
-	"neoyagami/gonum/graph/testgraph"
+	"github.com/neoyagami/gonum/graph"
+	"github.com/neoyagami/gonum/graph/internal/set"
+	"github.com/neoyagami/gonum/graph/iterator"
+	"github.com/neoyagami/gonum/graph/multi"
+	"github.com/neoyagami/gonum/graph/testgraph"
 )
 
 func undirectedBuilder(nodes []graph.Node, edges []testgraph.WeightedLine, _, _ float64) (g graph.Graph, n []graph.Node, e []testgraph.Edge, s, a float64, ok bool) {

@@ -3,4 +3,4 @@
 // license that can be found in the LICENSE file.
 
 // Package flow provides control flow analysis functions.
-package flow // import "neoyagami/gonum/graph/flow"
+package flow // import "github.com/neoyagami/gonum/graph/flow"

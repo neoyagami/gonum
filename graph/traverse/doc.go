@@ -3,4 +3,4 @@
 // license that can be found in the LICENSE file.
 
 // Package traverse provides basic graph traversal primitives.
-package traverse // import "neoyagami/gonum/graph/traverse"
+package traverse // import "github.com/neoyagami/gonum/graph/traverse"

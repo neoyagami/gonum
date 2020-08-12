@@ -13,7 +13,7 @@ import (
 	"math"
 	"testing"
 
-	"neoyagami/gonum/blas/blas64"
+	"github.com/neoyagami/gonum/blas/blas64"
 )
 
 var (

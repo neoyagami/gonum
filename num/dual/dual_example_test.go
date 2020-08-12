@@ -7,7 +7,7 @@ package dual_test
 import (
 	"fmt"
 
-	"neoyagami/gonum/num/dual"
+	"github.com/neoyagami/gonum/num/dual"
 )
 
 func ExampleNumber_fike() {

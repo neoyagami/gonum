@@ -11,7 +11,7 @@ import (
 
 	"golang.org/x/exp/rand"
 
-	"neoyagami/gonum/blas/blas64"
+	"github.com/neoyagami/gonum/blas/blas64"
 )
 
 func TestNewDiagDense(t *testing.T) {

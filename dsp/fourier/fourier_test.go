@@ -10,7 +10,7 @@ import (
 
 	"golang.org/x/exp/rand"
 
-	"neoyagami/gonum/floats"
+	"github.com/neoyagami/gonum/floats"
 )
 
 func TestFFT(t *testing.T) {

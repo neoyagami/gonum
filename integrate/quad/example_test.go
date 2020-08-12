@@ -9,8 +9,8 @@ import (
 	"math"
 	"runtime"
 
-	"neoyagami/gonum/integrate/quad"
-	"neoyagami/gonum/stat/distuv"
+	"github.com/neoyagami/gonum/integrate/quad"
+	"github.com/neoyagami/gonum/stat/distuv"
 )
 
 func Example() {

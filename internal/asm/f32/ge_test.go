@@ -8,7 +8,7 @@ import (
 	"fmt"
 	"testing"
 
-	. "neoyagami/gonum/internal/asm/f32"
+	. "github.com/neoyagami/gonum/internal/asm/f32"
 )
 
 var gerTests = []struct {

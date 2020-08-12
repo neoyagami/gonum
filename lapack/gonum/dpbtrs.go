@@ -5,8 +5,8 @@
 package gonum
 
 import (
-	"neoyagami/gonum/blas"
-	"neoyagami/gonum/blas/blas64"
+	"github.com/neoyagami/gonum/blas"
+	"github.com/neoyagami/gonum/blas/blas64"
 )
 
 // Dpbtrs solves a system of linear equations A*X = B with an n×n symmetric

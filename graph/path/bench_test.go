@@ -9,9 +9,9 @@ import (
 	"sync"
 	"testing"
 
-	"neoyagami/gonum/graph"
-	"neoyagami/gonum/graph/graphs/gen"
-	"neoyagami/gonum/graph/simple"
+	"github.com/neoyagami/gonum/graph"
+	"github.com/neoyagami/gonum/graph/graphs/gen"
+	"github.com/neoyagami/gonum/graph/simple"
 )
 
 var (

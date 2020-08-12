@@ -11,10 +11,10 @@ import (
 
 	"golang.org/x/exp/rand"
 
-	"neoyagami/gonum/graph"
-	"neoyagami/gonum/graph/internal/ordered"
-	"neoyagami/gonum/graph/internal/set"
-	"neoyagami/gonum/graph/iterator"
+	"github.com/neoyagami/gonum/graph"
+	"github.com/neoyagami/gonum/graph/internal/ordered"
+	"github.com/neoyagami/gonum/graph/internal/set"
+	"github.com/neoyagami/gonum/graph/iterator"
 )
 
 // DirectedMultiplex is a directed multiplex graph.

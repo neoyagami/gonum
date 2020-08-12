@@ -8,7 +8,7 @@ import (
 	"math"
 	"testing"
 
-	"neoyagami/gonum/blas"
+	"github.com/neoyagami/gonum/blas"
 )
 
 func newSymmetricFrom(a SymmetricCols) Symmetric {

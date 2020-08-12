@@ -4,7 +4,7 @@
 
 package fd
 
-import "neoyagami/gonum/mat"
+import "github.com/neoyagami/gonum/mat"
 
 // Watson implements the Watson's function.
 // Dimension of the problem should be 2 <= dim <= 31. For dim == 9, the problem

@@ -5,8 +5,8 @@
 package gonum
 
 import (
-	"neoyagami/gonum/blas"
-	"neoyagami/gonum/blas/blas64"
+	"github.com/neoyagami/gonum/blas"
+	"github.com/neoyagami/gonum/blas/blas64"
 )
 
 // Dlauu2 computes the product

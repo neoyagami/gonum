@@ -4,7 +4,7 @@
 
 package iterator
 
-import "neoyagami/gonum/graph"
+import "github.com/neoyagami/gonum/graph"
 
 // OrderedNodes implements the graph.Nodes and graph.NodeSlicer interfaces.
 // The iteration order of OrderedNodes is the order of nodes passed to

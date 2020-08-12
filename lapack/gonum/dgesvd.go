@@ -7,9 +7,9 @@ package gonum
 import (
 	"math"
 
-	"neoyagami/gonum/blas"
-	"neoyagami/gonum/blas/blas64"
-	"neoyagami/gonum/lapack"
+	"github.com/neoyagami/gonum/blas"
+	"github.com/neoyagami/gonum/blas/blas64"
+	"github.com/neoyagami/gonum/lapack"
 )
 
 const noSVDO = "dgesvd: not coded for overwrite"

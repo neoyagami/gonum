@@ -9,7 +9,7 @@ import (
 
 	"golang.org/x/exp/rand"
 
-	"neoyagami/gonum/mathext"
+	"github.com/neoyagami/gonum/mathext"
 )
 
 const logPi = 1.1447298858494001741 // http://oeis.org/A053510

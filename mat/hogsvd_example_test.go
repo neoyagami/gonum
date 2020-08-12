@@ -8,7 +8,7 @@ import (
 	"fmt"
 	"log"
 
-	"neoyagami/gonum/mat"
+	"github.com/neoyagami/gonum/mat"
 )
 
 func ExampleHOGSVD() {

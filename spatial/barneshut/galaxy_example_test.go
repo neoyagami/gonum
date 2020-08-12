@@ -9,8 +9,8 @@ import (
 
 	"golang.org/x/exp/rand"
 
-	"neoyagami/gonum/spatial/barneshut"
-	"neoyagami/gonum/spatial/r2"
+	"github.com/neoyagami/gonum/spatial/barneshut"
+	"github.com/neoyagami/gonum/spatial/r2"
 )
 
 type mass struct {

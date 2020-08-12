@@ -8,7 +8,7 @@ import (
 	"math"
 	"sort"
 
-	"neoyagami/gonum/floats"
+	"github.com/neoyagami/gonum/floats"
 )
 
 // nmIterType is a Nelder-Mead evaluation kind

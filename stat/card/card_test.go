@@ -17,7 +17,7 @@ import (
 
 	"golang.org/x/exp/rand"
 
-	"neoyagami/gonum/floats/scalar"
+	"github.com/neoyagami/gonum/floats/scalar"
 )
 
 // exact is an exact cardinality accumulator.

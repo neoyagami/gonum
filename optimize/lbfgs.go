@@ -5,7 +5,7 @@
 package optimize
 
 import (
-	"neoyagami/gonum/floats"
+	"github.com/neoyagami/gonum/floats"
 )
 
 var (

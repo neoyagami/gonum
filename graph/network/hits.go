@@ -7,8 +7,8 @@ package network
 import (
 	"math"
 
-	"neoyagami/gonum/floats"
-	"neoyagami/gonum/graph"
+	"github.com/neoyagami/gonum/floats"
+	"github.com/neoyagami/gonum/graph"
 )
 
 // HubAuthority is a Hyperlink-Induced Topic Search hub-authority score pair.

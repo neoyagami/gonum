@@ -10,7 +10,7 @@ import (
 	"testing"
 
 	"golang.org/x/exp/rand"
-	"neoyagami/gonum/floats/scalar"
+	"github.com/neoyagami/gonum/floats/scalar"
 )
 
 func TestLaplaceProb(t *testing.T) {

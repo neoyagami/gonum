@@ -7,9 +7,9 @@ package path
 import (
 	"container/heap"
 
-	"neoyagami/gonum/graph"
-	"neoyagami/gonum/graph/internal/set"
-	"neoyagami/gonum/graph/traverse"
+	"github.com/neoyagami/gonum/graph"
+	"github.com/neoyagami/gonum/graph/internal/set"
+	"github.com/neoyagami/gonum/graph/traverse"
 )
 
 // AStar finds the A*-shortest path from s to t in g using the heuristic h. The path and

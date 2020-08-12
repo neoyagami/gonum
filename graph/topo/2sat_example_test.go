@@ -12,8 +12,8 @@ import (
 	"sort"
 	"strings"
 
-	"neoyagami/gonum/graph/simple"
-	"neoyagami/gonum/graph/topo"
+	"github.com/neoyagami/gonum/graph/simple"
+	"github.com/neoyagami/gonum/graph/topo"
 )
 
 var systems = []string{

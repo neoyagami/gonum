@@ -7,4 +7,4 @@
 // For a good treatment of uses and behaviors of quaternions, see
 // the interactive videos by Ben Eater and Grant Sanderson here
 // https://eater.net/quaternions.
-package quat // imports "neoyagami/gonum/num/quat"
+package quat // imports "github.com/neoyagami/gonum/num/quat"

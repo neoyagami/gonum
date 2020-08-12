@@ -13,10 +13,10 @@ import (
 	"strings"
 	"testing"
 
-	"neoyagami/gonum/graph"
-	"neoyagami/gonum/graph/path"
-	"neoyagami/gonum/graph/path/internal/testgraphs"
-	"neoyagami/gonum/graph/simple"
+	"github.com/neoyagami/gonum/graph"
+	"github.com/neoyagami/gonum/graph/path"
+	"github.com/neoyagami/gonum/graph/path/internal/testgraphs"
+	"github.com/neoyagami/gonum/graph/simple"
 )
 
 var (

@@ -5,8 +5,8 @@
 package gonum
 
 import (
-	"neoyagami/gonum/blas"
-	"neoyagami/gonum/blas/blas64"
+	"github.com/neoyagami/gonum/blas"
+	"github.com/neoyagami/gonum/blas/blas64"
 )
 
 // Dgebrd reduces a general m×n matrix A to upper or lower bidiagonal form B by

@@ -9,10 +9,10 @@ import (
 	"sort"
 	"testing"
 
-	"neoyagami/gonum/graph"
-	"neoyagami/gonum/graph/internal/ordered"
-	"neoyagami/gonum/graph/iterator"
-	"neoyagami/gonum/graph/simple"
+	"github.com/neoyagami/gonum/graph"
+	"github.com/neoyagami/gonum/graph/internal/ordered"
+	"github.com/neoyagami/gonum/graph/iterator"
+	"github.com/neoyagami/gonum/graph/simple"
 )
 
 var orderedNodesTests = []struct {

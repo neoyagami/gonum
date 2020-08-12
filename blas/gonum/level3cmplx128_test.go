@@ -7,7 +7,7 @@ package gonum
 import (
 	"testing"
 
-	"neoyagami/gonum/blas/testblas"
+	"github.com/neoyagami/gonum/blas/testblas"
 )
 
 func TestZgemm(t *testing.T)  { testblas.ZgemmTest(t, impl) }

@@ -10,10 +10,10 @@ import (
 
 	"golang.org/x/exp/rand"
 
-	"neoyagami/gonum/graph"
-	"neoyagami/gonum/graph/graphs/gen"
-	"neoyagami/gonum/graph/iterator"
-	"neoyagami/gonum/graph/simple"
+	"github.com/neoyagami/gonum/graph"
+	"github.com/neoyagami/gonum/graph/graphs/gen"
+	"github.com/neoyagami/gonum/graph/iterator"
+	"github.com/neoyagami/gonum/graph/simple"
 )
 
 var complementTests = []struct {

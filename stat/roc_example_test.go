@@ -8,9 +8,9 @@ import (
 	"fmt"
 	"math"
 
-	"neoyagami/gonum/floats"
-	"neoyagami/gonum/integrate"
-	"neoyagami/gonum/stat"
+	"github.com/neoyagami/gonum/floats"
+	"github.com/neoyagami/gonum/integrate"
+	"github.com/neoyagami/gonum/stat"
 )
 
 func ExampleROC_weighted() {

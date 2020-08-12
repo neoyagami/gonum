@@ -10,7 +10,7 @@ import (
 
 	"golang.org/x/exp/rand"
 
-	"neoyagami/gonum/stat/distuv"
+	"github.com/neoyagami/gonum/stat/distuv"
 )
 
 const badLengthMismatch = "sample: slice length mismatch"

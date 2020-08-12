@@ -7,7 +7,7 @@ package gonum
 import (
 	"math"
 
-	"neoyagami/gonum/lapack"
+	"github.com/neoyagami/gonum/lapack"
 )
 
 // Dsterf computes all eigenvalues of a symmetric tridiagonal matrix using the

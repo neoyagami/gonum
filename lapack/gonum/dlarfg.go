@@ -7,7 +7,7 @@ package gonum
 import (
 	"math"
 
-	"neoyagami/gonum/blas/blas64"
+	"github.com/neoyagami/gonum/blas/blas64"
 )
 
 // Dlarfg generates an elementary reflector for a Householder matrix. It creates

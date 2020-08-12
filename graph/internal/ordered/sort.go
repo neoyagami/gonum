@@ -4,7 +4,7 @@
 
 package ordered
 
-import "neoyagami/gonum/graph"
+import "github.com/neoyagami/gonum/graph"
 
 // ByID implements the sort.Interface sorting a slice of graph.Node
 // by ID.

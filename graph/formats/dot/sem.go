@@ -13,7 +13,7 @@ package dot
 import (
 	"fmt"
 
-	"neoyagami/gonum/graph/formats/dot/ast"
+	"github.com/neoyagami/gonum/graph/formats/dot/ast"
 )
 
 // check validates the semantics of the given DOT file.

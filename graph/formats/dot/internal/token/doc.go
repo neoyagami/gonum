@@ -3,4 +3,4 @@
 // license that can be found in the LICENSE file.
 
 // Package token provides generated internal tokenizing functions for DOT parsing.
-package token // import "neoyagami/gonum/graph/formats/dot/internal/token"
+package token // import "github.com/neoyagami/gonum/graph/formats/dot/internal/token"

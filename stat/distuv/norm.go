@@ -9,9 +9,9 @@ import (
 
 	"golang.org/x/exp/rand"
 
-	"neoyagami/gonum/floats"
-	"neoyagami/gonum/mathext"
-	"neoyagami/gonum/stat"
+	"github.com/neoyagami/gonum/floats"
+	"github.com/neoyagami/gonum/mathext"
+	"github.com/neoyagami/gonum/stat"
 )
 
 // UnitNormal is an instantiation of the normal distribution with Mu = 0 and Sigma = 1.

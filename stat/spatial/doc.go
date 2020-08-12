@@ -3,4 +3,4 @@
 // license that can be found in the LICENSE file.
 
 // Package spatial provides spatial statistical functions.
-package spatial // import "neoyagami/gonum/stat/spatial"
+package spatial // import "github.com/neoyagami/gonum/stat/spatial"

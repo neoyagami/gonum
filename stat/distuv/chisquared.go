@@ -9,7 +9,7 @@ import (
 
 	"golang.org/x/exp/rand"
 
-	"neoyagami/gonum/mathext"
+	"github.com/neoyagami/gonum/mathext"
 )
 
 // ChiSquared implements the χ² distribution, a one parameter distribution

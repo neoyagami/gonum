@@ -7,7 +7,7 @@ package gonum
 import (
 	"math"
 
-	"neoyagami/gonum/lapack"
+	"github.com/neoyagami/gonum/lapack"
 )
 
 // Dlascl multiplies an m×n matrix by the scalar cto/cfrom.

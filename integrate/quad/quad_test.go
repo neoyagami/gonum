@@ -8,8 +8,8 @@ import (
 	"math"
 	"testing"
 
-	"neoyagami/gonum/floats/scalar"
-	"neoyagami/gonum/stat/distuv"
+	"github.com/neoyagami/gonum/floats/scalar"
+	"github.com/neoyagami/gonum/stat/distuv"
 )
 
 func TestFixed(t *testing.T) {

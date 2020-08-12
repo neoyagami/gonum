@@ -9,7 +9,7 @@ import (
 
 	"golang.org/x/exp/rand"
 
-	"neoyagami/gonum/mathext"
+	"github.com/neoyagami/gonum/mathext"
 )
 
 // InverseGamma implements the inverse gamma distribution, a two-parameter

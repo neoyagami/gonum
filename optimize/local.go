@@ -7,7 +7,7 @@ package optimize
 import (
 	"math"
 
-	"neoyagami/gonum/floats"
+	"github.com/neoyagami/gonum/floats"
 )
 
 // localOptimizer is a helper type for running an optimization using a LocalMethod.

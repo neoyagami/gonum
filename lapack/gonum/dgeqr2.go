@@ -4,7 +4,7 @@
 
 package gonum
 
-import "neoyagami/gonum/blas"
+import "github.com/neoyagami/gonum/blas"
 
 // Dgeqr2 computes a QR factorization of the m×n matrix A.
 //

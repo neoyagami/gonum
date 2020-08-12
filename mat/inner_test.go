@@ -10,8 +10,8 @@ import (
 
 	"golang.org/x/exp/rand"
 
-	"neoyagami/gonum/blas/blas64"
-	"neoyagami/gonum/blas/testblas"
+	"github.com/neoyagami/gonum/blas/blas64"
+	"github.com/neoyagami/gonum/blas/testblas"
 )
 
 func TestInner(t *testing.T) {

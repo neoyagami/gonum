@@ -8,7 +8,7 @@ import (
 	"fmt"
 	"testing"
 
-	. "neoyagami/gonum/internal/asm/c64"
+	. "github.com/neoyagami/gonum/internal/asm/c64"
 )
 
 func TestAdd(t *testing.T) {

@@ -8,8 +8,8 @@ import (
 	"fmt"
 	"math"
 
-	"neoyagami/gonum/floats/scalar"
-	"neoyagami/gonum/num/dualcmplx"
+	"github.com/neoyagami/gonum/floats/scalar"
+	"github.com/neoyagami/gonum/num/dualcmplx"
 )
 
 // point is a 2-dimensional point/vector.

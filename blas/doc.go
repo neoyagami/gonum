@@ -105,4 +105,4 @@ For real matrices, Trans and ConjTrans have the same meaning.
 For Hermitian matrices, trans = Trans is not allowed.
 For complex symmetric matrices, trans = ConjTrans is not allowed.
 */
-package blas // import "neoyagami/gonum/blas"
+package blas // import "github.com/neoyagami/gonum/blas"

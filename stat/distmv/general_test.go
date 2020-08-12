@@ -8,9 +8,9 @@ import (
 	"math"
 	"testing"
 
-	"neoyagami/gonum/floats"
-	"neoyagami/gonum/mat"
-	"neoyagami/gonum/stat"
+	"github.com/neoyagami/gonum/floats"
+	"github.com/neoyagami/gonum/mat"
+	"github.com/neoyagami/gonum/stat"
 )
 
 type prober interface {

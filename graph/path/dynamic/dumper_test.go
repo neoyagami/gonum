@@ -11,8 +11,8 @@ import (
 	"sort"
 	"text/tabwriter"
 
-	"neoyagami/gonum/graph/path/internal/testgraphs"
-	"neoyagami/gonum/graph/simple"
+	"github.com/neoyagami/gonum/graph/path/internal/testgraphs"
+	"github.com/neoyagami/gonum/graph/simple"
 )
 
 // dumper implements a grid D* Lite statistics dump.

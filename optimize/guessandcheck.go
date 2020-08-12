@@ -7,7 +7,7 @@ package optimize
 import (
 	"math"
 
-	"neoyagami/gonum/stat/distmv"
+	"github.com/neoyagami/gonum/stat/distmv"
 )
 
 var _ Method = (*GuessAndCheck)(nil)

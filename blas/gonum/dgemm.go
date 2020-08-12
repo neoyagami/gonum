@@ -8,8 +8,8 @@ import (
 	"runtime"
 	"sync"
 
-	"neoyagami/gonum/blas"
-	"neoyagami/gonum/internal/asm/f64"
+	"github.com/neoyagami/gonum/blas"
+	"github.com/neoyagami/gonum/internal/asm/f64"
 )
 
 // Dgemm performs one of the matrix-matrix operations

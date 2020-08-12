@@ -5,9 +5,9 @@
 package mat
 
 import (
-	"neoyagami/gonum/blas/blas64"
-	"neoyagami/gonum/lapack"
-	"neoyagami/gonum/lapack/lapack64"
+	"github.com/neoyagami/gonum/blas/blas64"
+	"github.com/neoyagami/gonum/lapack"
+	"github.com/neoyagami/gonum/lapack/lapack64"
 )
 
 const badRcond = "mat: invalid rcond value"

@@ -8,8 +8,8 @@ import (
 	"errors"
 	"math"
 
-	"neoyagami/gonum/floats"
-	"neoyagami/gonum/mat"
+	"github.com/neoyagami/gonum/floats"
+	"github.com/neoyagami/gonum/mat"
 )
 
 // PC is a type for computing and extracting the principal components of a

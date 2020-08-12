@@ -3,4 +3,4 @@
 // license that can be found in the LICENSE file.
 
 // Package testblas provides tests for blas implementations.
-package testblas // import "neoyagami/gonum/blas/testblas"
+package testblas // import "github.com/neoyagami/gonum/blas/testblas"

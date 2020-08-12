@@ -7,7 +7,7 @@ package f32_test
 import (
 	"testing"
 
-	. "neoyagami/gonum/internal/asm/f32"
+	. "github.com/neoyagami/gonum/internal/asm/f32"
 )
 
 func TestL2NormUnitary(t *testing.T) {

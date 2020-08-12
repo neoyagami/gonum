@@ -10,11 +10,11 @@ import (
 
 	"golang.org/x/exp/rand"
 
-	"neoyagami/gonum/floats"
-	"neoyagami/gonum/mat"
-	"neoyagami/gonum/spatial/r1"
-	"neoyagami/gonum/stat"
-	"neoyagami/gonum/stat/distmv"
+	"github.com/neoyagami/gonum/floats"
+	"github.com/neoyagami/gonum/mat"
+	"github.com/neoyagami/gonum/spatial/r1"
+	"github.com/neoyagami/gonum/stat"
+	"github.com/neoyagami/gonum/stat/distmv"
 )
 
 type lhDist interface {

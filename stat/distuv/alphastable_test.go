@@ -10,7 +10,7 @@ import (
 	"testing"
 
 	"golang.org/x/exp/rand"
-	"neoyagami/gonum/stat"
+	"github.com/neoyagami/gonum/stat"
 )
 
 func TestAlphaStable(t *testing.T) {

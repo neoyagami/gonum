@@ -7,8 +7,8 @@ package gonum
 import (
 	"math"
 
-	"neoyagami/gonum/blas"
-	"neoyagami/gonum/blas/blas64"
+	"github.com/neoyagami/gonum/blas"
+	"github.com/neoyagami/gonum/blas/blas64"
 )
 
 // Dlatrs solves a triangular system of equations scaled to prevent overflow. It

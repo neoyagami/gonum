@@ -4,4 +4,4 @@
 
 // Package combin implements routines involving combinatorics (permutations,
 // combinations, etc.).
-package combin // import "neoyagami/gonum/stat/combin"
+package combin // import "github.com/neoyagami/gonum/stat/combin"

@@ -11,7 +11,7 @@ import (
 
 	"golang.org/x/exp/rand"
 
-	"neoyagami/gonum/floats/scalar"
+	"github.com/neoyagami/gonum/floats/scalar"
 )
 
 func TestGamma(t *testing.T) {

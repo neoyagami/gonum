@@ -3,4 +3,4 @@
 // license that can be found in the LICENSE file.
 
 // Package stat provides generalized statistical functions.
-package stat // import "neoyagami/gonum/stat"
+package stat // import "github.com/neoyagami/gonum/stat"

@@ -8,8 +8,8 @@ import (
 	"fmt"
 	"testing"
 
-	"neoyagami/gonum/floats"
-	"neoyagami/gonum/floats/scalar"
+	"github.com/neoyagami/gonum/floats"
+	"github.com/neoyagami/gonum/floats/scalar"
 )
 
 var windowTests = []struct {

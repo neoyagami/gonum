@@ -8,10 +8,10 @@ import (
 	"math"
 	"testing"
 
-	"neoyagami/gonum/floats"
-	"neoyagami/gonum/floats/scalar"
-	"neoyagami/gonum/integrate/quad"
-	"neoyagami/gonum/stat"
+	"github.com/neoyagami/gonum/floats"
+	"github.com/neoyagami/gonum/floats/scalar"
+	"github.com/neoyagami/gonum/integrate/quad"
+	"github.com/neoyagami/gonum/stat"
 )
 
 type meaner interface {

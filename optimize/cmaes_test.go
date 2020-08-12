@@ -11,9 +11,9 @@ import (
 
 	"golang.org/x/exp/rand"
 
-	"neoyagami/gonum/floats"
-	"neoyagami/gonum/mat"
-	"neoyagami/gonum/optimize/functions"
+	"github.com/neoyagami/gonum/floats"
+	"github.com/neoyagami/gonum/mat"
+	"github.com/neoyagami/gonum/optimize/functions"
 )
 
 type functionThresholdConverger struct {

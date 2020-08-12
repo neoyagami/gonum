@@ -7,9 +7,9 @@ package gonum
 import (
 	"math"
 
-	"neoyagami/gonum/blas"
-	"neoyagami/gonum/blas/blas64"
-	"neoyagami/gonum/lapack"
+	"github.com/neoyagami/gonum/blas"
+	"github.com/neoyagami/gonum/blas/blas64"
+	"github.com/neoyagami/gonum/lapack"
 )
 
 // Dgecon estimates the reciprocal of the condition number of the n×n matrix A

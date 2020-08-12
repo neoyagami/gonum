@@ -9,9 +9,9 @@ import (
 
 	"golang.org/x/exp/rand"
 
-	"neoyagami/gonum/graph"
-	"neoyagami/gonum/graph/graphs/gen"
-	"neoyagami/gonum/graph/simple"
+	"github.com/neoyagami/gonum/graph"
+	"github.com/neoyagami/gonum/graph/graphs/gen"
+	"github.com/neoyagami/gonum/graph/simple"
 )
 
 // intset is an integer set.

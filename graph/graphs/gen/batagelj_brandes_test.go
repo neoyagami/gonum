@@ -7,10 +7,10 @@ package gen
 import (
 	"testing"
 
-	"neoyagami/gonum/graph"
-	"neoyagami/gonum/graph/internal/set"
-	"neoyagami/gonum/graph/multi"
-	"neoyagami/gonum/graph/simple"
+	"github.com/neoyagami/gonum/graph"
+	"github.com/neoyagami/gonum/graph/internal/set"
+	"github.com/neoyagami/gonum/graph/multi"
+	"github.com/neoyagami/gonum/graph/simple"
 )
 
 type gnUndirected struct {

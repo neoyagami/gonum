@@ -13,7 +13,7 @@ import (
 
 	"golang.org/x/exp/rand"
 
-	"neoyagami/gonum/cmplxs/cscalar"
+	"github.com/neoyagami/gonum/cmplxs/cscalar"
 )
 
 const (

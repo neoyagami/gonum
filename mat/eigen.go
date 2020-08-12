@@ -5,8 +5,8 @@
 package mat
 
 import (
-	"neoyagami/gonum/lapack"
-	"neoyagami/gonum/lapack/lapack64"
+	"github.com/neoyagami/gonum/lapack"
+	"github.com/neoyagami/gonum/lapack/lapack64"
 )
 
 const (

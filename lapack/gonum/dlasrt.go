@@ -7,7 +7,7 @@ package gonum
 import (
 	"sort"
 
-	"neoyagami/gonum/lapack"
+	"github.com/neoyagami/gonum/lapack"
 )
 
 // Dlasrt sorts the numbers in the input slice d. If s == lapack.SortIncreasing,

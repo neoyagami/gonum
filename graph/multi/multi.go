@@ -4,7 +4,7 @@
 
 package multi
 
-import "neoyagami/gonum/graph"
+import "github.com/neoyagami/gonum/graph"
 
 // Node here is a duplication of simple.Node
 // to avoid needing to import both packages.

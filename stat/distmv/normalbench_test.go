@@ -10,7 +10,7 @@ import (
 
 	"golang.org/x/exp/rand"
 
-	"neoyagami/gonum/mat"
+	"github.com/neoyagami/gonum/mat"
 )
 
 func BenchmarkMarginalNormal10(b *testing.B) {

@@ -7,10 +7,10 @@ package topo
 import (
 	"sort"
 
-	"neoyagami/gonum/graph"
-	"neoyagami/gonum/graph/internal/ordered"
-	"neoyagami/gonum/graph/internal/set"
-	"neoyagami/gonum/graph/iterator"
+	"github.com/neoyagami/gonum/graph"
+	"github.com/neoyagami/gonum/graph/internal/ordered"
+	"github.com/neoyagami/gonum/graph/internal/set"
+	"github.com/neoyagami/gonum/graph/iterator"
 )
 
 // johnson implements Johnson's "Finding all the elementary

@@ -8,7 +8,7 @@ import (
 	"math"
 	"math/cmplx"
 
-	"neoyagami/gonum/floats/scalar"
+	"github.com/neoyagami/gonum/floats/scalar"
 )
 
 // EqualWithinAbs returns true when a and b have an absolute difference

@@ -6,7 +6,7 @@
 
 package floats
 
-import "neoyagami/gonum/floats/scalar"
+import "github.com/neoyagami/gonum/floats/scalar"
 
 var (
 	// Deprecated: Use scalar.EqualWithinAbs.

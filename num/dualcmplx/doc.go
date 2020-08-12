@@ -6,7 +6,7 @@
 // type and functions.
 //
 // See https://arxiv.org/abs/1601.01754v1 for details.
-package dualcmplx // imports "neoyagami/gonum/num/dualcmplx"
+package dualcmplx // imports "github.com/neoyagami/gonum/num/dualcmplx"
 
 // TODO(kortschak): Handle special cases properly.
 //  - Pow

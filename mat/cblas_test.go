@@ -7,7 +7,7 @@
 package mat
 
 import (
-	"neoyagami/gonum/blas/blas64"
+	"github.com/neoyagami/gonum/blas/blas64"
 	"gonum.org/v1/netlib/blas/netlib"
 )
 

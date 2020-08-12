@@ -5,11 +5,11 @@
 package community
 
 import (
-	"neoyagami/gonum/graph"
-	"neoyagami/gonum/graph/internal/set"
-	"neoyagami/gonum/graph/simple"
-	"neoyagami/gonum/graph/topo"
-	"neoyagami/gonum/graph/traverse"
+	"github.com/neoyagami/gonum/graph"
+	"github.com/neoyagami/gonum/graph/internal/set"
+	"github.com/neoyagami/gonum/graph/simple"
+	"github.com/neoyagami/gonum/graph/topo"
+	"github.com/neoyagami/gonum/graph/traverse"
 )
 
 // KCliqueCommunities returns the k-clique communties of the undirected graph g for

@@ -10,7 +10,7 @@ import (
 	"math/cmplx"
 	"testing"
 
-	"neoyagami/gonum/floats/scalar"
+	"github.com/neoyagami/gonum/floats/scalar"
 )
 
 var formatTests = []struct {

@@ -10,7 +10,7 @@ import (
 	"reflect"
 	"testing"
 
-	"neoyagami/gonum/optimize/functions"
+	"github.com/neoyagami/gonum/optimize/functions"
 )
 
 func TestMoreThuente(t *testing.T) {

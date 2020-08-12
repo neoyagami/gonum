@@ -4,7 +4,7 @@
 
 package gonum
 
-import "neoyagami/gonum/blas"
+import "github.com/neoyagami/gonum/blas"
 
 // Dgerq2 computes an RQ factorization of the m×n matrix A,
 //  A = R * Q.

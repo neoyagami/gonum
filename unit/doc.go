@@ -115,4 +115,4 @@
 //
 // This will prevent an energy value being provided to LeverLength in place
 // of a torque value.
-package unit // import "neoyagami/gonum/unit"
+package unit // import "github.com/neoyagami/gonum/unit"

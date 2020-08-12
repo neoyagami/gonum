@@ -4,4 +4,4 @@
 
 // Package integrate provides functions to compute an integral given a
 // specific list of evaluations.
-package integrate // import "neoyagami/gonum/integrate"
+package integrate // import "github.com/neoyagami/gonum/integrate"

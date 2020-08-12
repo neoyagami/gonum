@@ -3,4 +3,4 @@
 // license that can be found in the LICENSE file.
 
 // Package util provides generated internal utility functions for DOT parsing.
-package util // import "neoyagami/gonum/graph/formats/dot/internal/util"
+package util // import "github.com/neoyagami/gonum/graph/formats/dot/internal/util"

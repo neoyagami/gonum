@@ -8,7 +8,7 @@ import (
 	"math"
 	"sort"
 
-	"neoyagami/gonum/mat"
+	"github.com/neoyagami/gonum/mat"
 )
 
 const (

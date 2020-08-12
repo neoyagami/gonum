@@ -12,7 +12,7 @@ import (
 
 	"golang.org/x/exp/rand"
 
-	"neoyagami/gonum/stat"
+	"github.com/neoyagami/gonum/stat"
 )
 
 // Comparable is the element interface for values stored in a vp-tree.

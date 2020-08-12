@@ -8,8 +8,8 @@ import (
 	"fmt"
 	"strings"
 
-	"neoyagami/gonum/num/dual"
-	"neoyagami/gonum/num/quat"
+	"github.com/neoyagami/gonum/num/dual"
+	"github.com/neoyagami/gonum/num/quat"
 )
 
 // Number is a float64 precision dual quaternion. A dual quaternion

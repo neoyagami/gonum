@@ -9,7 +9,7 @@ import (
 
 	"golang.org/x/exp/rand"
 
-	"neoyagami/gonum/blas"
+	"github.com/neoyagami/gonum/blas"
 )
 
 func DgemmBenchmark(b *testing.B, dgemm Dgemmer, m, n, k int, tA, tB blas.Transpose) {

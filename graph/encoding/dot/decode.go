@@ -9,11 +9,11 @@ import (
 	"strconv"
 	"strings"
 
-	"neoyagami/gonum/graph"
-	"neoyagami/gonum/graph/encoding"
-	"neoyagami/gonum/graph/formats/dot"
-	"neoyagami/gonum/graph/formats/dot/ast"
-	"neoyagami/gonum/graph/internal/set"
+	"github.com/neoyagami/gonum/graph"
+	"github.com/neoyagami/gonum/graph/encoding"
+	"github.com/neoyagami/gonum/graph/formats/dot"
+	"github.com/neoyagami/gonum/graph/formats/dot/ast"
+	"github.com/neoyagami/gonum/graph/internal/set"
 )
 
 // AttributeSetters is implemented by graph values that can set global

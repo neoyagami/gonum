@@ -5,8 +5,8 @@
 package c64
 
 import (
-	"neoyagami/gonum/internal/cmplx64"
-	"neoyagami/gonum/internal/math32"
+	"github.com/neoyagami/gonum/internal/cmplx64"
+	"github.com/neoyagami/gonum/internal/math32"
 )
 
 // Add is

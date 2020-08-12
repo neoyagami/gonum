@@ -9,9 +9,9 @@ import (
 
 	"golang.org/x/exp/rand"
 
-	"neoyagami/gonum/floats"
-	"neoyagami/gonum/mat"
-	"neoyagami/gonum/stat/distuv"
+	"github.com/neoyagami/gonum/floats"
+	"github.com/neoyagami/gonum/mat"
+	"github.com/neoyagami/gonum/stat/distuv"
 )
 
 // Dirichlet implements the Dirichlet probability distribution.

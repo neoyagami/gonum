@@ -10,8 +10,8 @@ import (
 	"errors"
 	"fmt"
 
-	"neoyagami/gonum/graph"
-	"neoyagami/gonum/graph/encoding"
+	"github.com/neoyagami/gonum/graph"
+	"github.com/neoyagami/gonum/graph/encoding"
 )
 
 // Unmarshal parses the JSON-encoded data and stores the result in dst.

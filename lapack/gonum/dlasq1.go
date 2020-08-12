@@ -7,8 +7,8 @@ package gonum
 import (
 	"math"
 
-	"neoyagami/gonum/blas/blas64"
-	"neoyagami/gonum/lapack"
+	"github.com/neoyagami/gonum/blas/blas64"
+	"github.com/neoyagami/gonum/lapack"
 )
 
 // Dlasq1 computes the singular values of an n×n bidiagonal matrix with diagonal

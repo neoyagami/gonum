@@ -3,4 +3,4 @@
 // license that can be found in the LICENSE file.
 
 // Package parser provides generated internal parsing functions for DOT parsing.
-package parser // import "neoyagami/gonum/graph/formats/dot/internal/parser"
+package parser // import "github.com/neoyagami/gonum/graph/formats/dot/internal/parser"

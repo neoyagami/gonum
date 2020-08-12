@@ -9,9 +9,9 @@ import (
 
 	"golang.org/x/exp/rand"
 
-	"neoyagami/gonum/blas"
-	"neoyagami/gonum/blas/blas64"
-	"neoyagami/gonum/floats"
+	"github.com/neoyagami/gonum/blas"
+	"github.com/neoyagami/gonum/blas/blas64"
+	"github.com/neoyagami/gonum/floats"
 )
 
 // TODO: Need to add tests where one is overwritten.

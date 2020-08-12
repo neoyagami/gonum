@@ -3,4 +3,4 @@
 // license that can be found in the LICENSE file.
 
 // Package path provides graph path finding functions.
-package path // import "neoyagami/gonum/graph/path"
+package path // import "github.com/neoyagami/gonum/graph/path"

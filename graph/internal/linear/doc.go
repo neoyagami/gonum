@@ -3,4 +3,4 @@
 // license that can be found in the LICENSE file.
 
 // Package linear provides common linear data structures.
-package linear // import "neoyagami/gonum/graph/internal/linear"
+package linear // import "github.com/neoyagami/gonum/graph/internal/linear"

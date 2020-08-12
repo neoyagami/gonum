@@ -5,8 +5,8 @@
 package lp
 
 import (
-	"neoyagami/gonum/floats"
-	"neoyagami/gonum/mat"
+	"github.com/neoyagami/gonum/floats"
+	"github.com/neoyagami/gonum/mat"
 )
 
 // TODO(btracey): Have some sort of preprocessing step for helping to fix A to make it

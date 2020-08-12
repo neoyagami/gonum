@@ -9,7 +9,7 @@ import (
 	"testing"
 	"testing/quick"
 
-	"neoyagami/gonum/floats/scalar"
+	"github.com/neoyagami/gonum/floats/scalar"
 )
 
 const tol = 1e-7

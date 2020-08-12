@@ -5,10 +5,10 @@
 package lapack64
 
 import (
-	"neoyagami/gonum/blas"
-	"neoyagami/gonum/blas/blas64"
-	"neoyagami/gonum/lapack"
-	"neoyagami/gonum/lapack/gonum"
+	"github.com/neoyagami/gonum/blas"
+	"github.com/neoyagami/gonum/blas/blas64"
+	"github.com/neoyagami/gonum/lapack"
+	"github.com/neoyagami/gonum/lapack/gonum"
 )
 
 var lapack64 lapack.Float64 = gonum.Implementation{}

@@ -10,10 +10,10 @@ import (
 
 	"golang.org/x/exp/rand"
 
-	"neoyagami/gonum/diff/fd"
-	"neoyagami/gonum/floats"
-	"neoyagami/gonum/mat"
-	"neoyagami/gonum/stat"
+	"github.com/neoyagami/gonum/diff/fd"
+	"github.com/neoyagami/gonum/floats"
+	"github.com/neoyagami/gonum/mat"
+	"github.com/neoyagami/gonum/stat"
 )
 
 func TestNormProbs(t *testing.T) {

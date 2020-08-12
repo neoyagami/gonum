@@ -8,7 +8,7 @@ import (
 	"fmt"
 	"runtime"
 
-	"neoyagami/gonum/lapack"
+	"github.com/neoyagami/gonum/lapack"
 )
 
 // Condition is the condition number of a matrix. The condition

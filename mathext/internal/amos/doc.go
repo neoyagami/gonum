@@ -3,4 +3,4 @@
 // license that can be found in the LICENSE file.
 
 // Package amos implements functions originally in the Netlib code by Donald Amos.
-package amos // import "neoyagami/gonum/mathext/internal/amos"
+package amos // import "github.com/neoyagami/gonum/mathext/internal/amos"

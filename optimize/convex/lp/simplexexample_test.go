@@ -8,8 +8,8 @@ import (
 	"fmt"
 	"log"
 
-	"neoyagami/gonum/mat"
-	"neoyagami/gonum/optimize/convex/lp"
+	"github.com/neoyagami/gonum/mat"
+	"github.com/neoyagami/gonum/optimize/convex/lp"
 )
 
 func ExampleSimplex() {

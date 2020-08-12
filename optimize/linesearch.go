@@ -7,7 +7,7 @@ package optimize
 import (
 	"math"
 
-	"neoyagami/gonum/floats"
+	"github.com/neoyagami/gonum/floats"
 )
 
 // LinesearchMethod represents an abstract optimization method in which a

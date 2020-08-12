@@ -4,4 +4,4 @@
 
 // Package quad provides numerical evaluation of definite integrals of single-variable functions.
 //
-package quad // import "neoyagami/gonum/integrate/quad"
+package quad // import "github.com/neoyagami/gonum/integrate/quad"

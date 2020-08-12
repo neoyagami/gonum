@@ -3,4 +3,4 @@
 // license that can be found in the LICENSE file.
 
 // Package dynamic provides incremental heuristic graph path finding functions.
-package dynamic // import "neoyagami/gonum/graph/path/dynamic"
+package dynamic // import "github.com/neoyagami/gonum/graph/path/dynamic"

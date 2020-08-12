@@ -13,7 +13,7 @@ package iterator
 import (
 	"unsafe"
 
-	"neoyagami/gonum/graph"
+	"github.com/neoyagami/gonum/graph"
 )
 
 // A mapIter is an iterator for ranging over a map.

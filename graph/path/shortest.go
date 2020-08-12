@@ -9,11 +9,11 @@ import (
 
 	"golang.org/x/exp/rand"
 
-	"neoyagami/gonum/floats/scalar"
-	"neoyagami/gonum/graph"
-	"neoyagami/gonum/graph/internal/ordered"
-	"neoyagami/gonum/graph/internal/set"
-	"neoyagami/gonum/mat"
+	"github.com/neoyagami/gonum/floats/scalar"
+	"github.com/neoyagami/gonum/graph"
+	"github.com/neoyagami/gonum/graph/internal/ordered"
+	"github.com/neoyagami/gonum/graph/internal/set"
+	"github.com/neoyagami/gonum/mat"
 )
 
 // Shortest is a shortest-path tree created by the BellmanFordFrom, DijkstraFrom

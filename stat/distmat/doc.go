@@ -3,4 +3,4 @@
 // license that can be found in the LICENSE file.
 
 // Package distmat provides probability distributions over matrices.
-package distmat // import "neoyagami/gonum/stat/distmat"
+package distmat // import "github.com/neoyagami/gonum/stat/distmat"

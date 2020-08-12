@@ -7,7 +7,7 @@ package gonum
 import (
 	"math"
 
-	"neoyagami/gonum/lapack"
+	"github.com/neoyagami/gonum/lapack"
 )
 
 // Dlasq2 computes all the eigenvalues of the symmetric positive

@@ -7,7 +7,7 @@ package cmplxs_test
 import (
 	"fmt"
 
-	"neoyagami/gonum/cmplxs"
+	"github.com/neoyagami/gonum/cmplxs"
 )
 
 // Set of examples for all the functions

@@ -7,7 +7,7 @@ package mat_test
 import (
 	"fmt"
 
-	"neoyagami/gonum/mat"
+	"github.com/neoyagami/gonum/mat"
 )
 
 func ExampleCol() {

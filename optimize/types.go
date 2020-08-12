@@ -8,7 +8,7 @@ import (
 	"fmt"
 	"time"
 
-	"neoyagami/gonum/mat"
+	"github.com/neoyagami/gonum/mat"
 )
 
 const defaultGradientAbsTol = 1e-12

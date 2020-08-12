@@ -7,7 +7,7 @@ package fd
 import (
 	"testing"
 
-	"neoyagami/gonum/mat"
+	"github.com/neoyagami/gonum/mat"
 )
 
 type HessianTester interface {

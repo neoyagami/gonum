@@ -7,7 +7,7 @@ package unit_test
 import (
 	"fmt"
 
-	"neoyagami/gonum/unit"
+	"github.com/neoyagami/gonum/unit"
 )
 
 func ExampleNew() {

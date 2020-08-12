@@ -4,7 +4,7 @@
 
 package gonum
 
-import "neoyagami/gonum/blas"
+import "github.com/neoyagami/gonum/blas"
 
 // Dorml2 multiplies a general matrix C by an orthogonal matrix from an LQ factorization
 // determined by Dgelqf.

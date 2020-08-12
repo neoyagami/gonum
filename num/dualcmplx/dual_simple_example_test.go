@@ -8,7 +8,7 @@ import (
 	"fmt"
 	"math"
 
-	"neoyagami/gonum/num/dualcmplx"
+	"github.com/neoyagami/gonum/num/dualcmplx"
 )
 
 // Example point, displacement and rotation from Euclidean Space Dual Complex Number page:

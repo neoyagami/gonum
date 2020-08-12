@@ -7,8 +7,8 @@ package optimize
 import (
 	"math"
 
-	"neoyagami/gonum/floats"
-	"neoyagami/gonum/floats/scalar"
+	"github.com/neoyagami/gonum/floats"
+	"github.com/neoyagami/gonum/floats/scalar"
 )
 
 const (

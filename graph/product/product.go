@@ -7,9 +7,9 @@ package product
 import (
 	"sort"
 
-	"neoyagami/gonum/graph"
-	"neoyagami/gonum/graph/internal/ordered"
-	"neoyagami/gonum/stat/combin"
+	"github.com/neoyagami/gonum/graph"
+	"github.com/neoyagami/gonum/graph/internal/ordered"
+	"github.com/neoyagami/gonum/stat/combin"
 )
 
 // Node is a product of two graph nodes.

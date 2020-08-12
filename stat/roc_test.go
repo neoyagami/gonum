@@ -8,7 +8,7 @@ import (
 	"math"
 	"testing"
 
-	"neoyagami/gonum/floats"
+	"github.com/neoyagami/gonum/floats"
 )
 
 func TestROC(t *testing.T) {

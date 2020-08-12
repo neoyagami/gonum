@@ -9,7 +9,7 @@ import (
 	"testing"
 
 	"golang.org/x/exp/rand"
-	"neoyagami/gonum/blas"
+	"github.com/neoyagami/gonum/blas"
 )
 
 type Ztbsver interface {

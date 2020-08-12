@@ -9,7 +9,7 @@ package gonum
 import (
 	"math"
 
-	"neoyagami/gonum/internal/math32"
+	"github.com/neoyagami/gonum/internal/math32"
 )
 
 type Implementation struct{}

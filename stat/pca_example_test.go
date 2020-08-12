@@ -7,8 +7,8 @@ package stat_test
 import (
 	"fmt"
 
-	"neoyagami/gonum/mat"
-	"neoyagami/gonum/stat"
+	"github.com/neoyagami/gonum/mat"
+	"github.com/neoyagami/gonum/stat"
 )
 
 func ExamplePC() {

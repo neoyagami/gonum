@@ -15,7 +15,7 @@ package lexer
 import (
 	"fmt"
 
-	"neoyagami/gonum/graph/formats/dot/internal/token"
+	"github.com/neoyagami/gonum/graph/formats/dot/internal/token"
 )
 
 type ActionTable [NumStates]ActionRow

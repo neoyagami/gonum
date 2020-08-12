@@ -5,8 +5,8 @@
 package gonum
 
 import (
-	"neoyagami/gonum/blas/blas64"
-	"neoyagami/gonum/lapack"
+	"github.com/neoyagami/gonum/blas/blas64"
+	"github.com/neoyagami/gonum/lapack"
 )
 
 // Dgebak updates an n×m matrix V as

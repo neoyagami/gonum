@@ -5,7 +5,7 @@
 package gonum
 
 import (
-	"neoyagami/gonum/internal/asm/f64"
+	"github.com/neoyagami/gonum/internal/asm/f64"
 )
 
 // Ddot computes the dot product of the two vectors

@@ -14,8 +14,8 @@ import (
 	"reflect"
 	"testing"
 
-	"neoyagami/gonum/floats"
-	"neoyagami/gonum/floats/scalar"
+	"github.com/neoyagami/gonum/floats"
+	"github.com/neoyagami/gonum/floats/scalar"
 )
 
 func TestRfft(t *testing.T) {

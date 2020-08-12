@@ -4,4 +4,4 @@
 
 // Package testsgraphs provides a number of graphs used for testing
 // routines in the path and path/dynamic packages.
-package testgraphs // import "neoyagami/gonum/graph/path/internal/testgraphs"
+package testgraphs // import "github.com/neoyagami/gonum/graph/path/internal/testgraphs"

@@ -7,7 +7,7 @@ package gonum
 import (
 	"testing"
 
-	"neoyagami/gonum/lapack/testlapack"
+	"github.com/neoyagami/gonum/lapack/testlapack"
 )
 
 var impl = Implementation{}

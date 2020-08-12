@@ -11,7 +11,7 @@ import (
 	"runtime/debug"
 )
 
-const root = "neoyagami/gonum"
+const root = "github.com/neoyagami/gonum"
 
 // Version returns the version of Gonum and its checksum. The returned
 // values are only valid in binaries built with module support.

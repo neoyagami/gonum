@@ -8,7 +8,7 @@ import (
 	"reflect"
 	"testing"
 
-	"neoyagami/gonum/blas/blas64"
+	"github.com/neoyagami/gonum/blas/blas64"
 )
 
 func TestNewBand(t *testing.T) {

@@ -9,10 +9,10 @@ import (
 
 	"golang.org/x/exp/rand"
 
-	"neoyagami/gonum/cmplxs/cscalar"
-	"neoyagami/gonum/floats/scalar"
-	"neoyagami/gonum/internal/cmplx64"
-	"neoyagami/gonum/internal/math32"
+	"github.com/neoyagami/gonum/cmplxs/cscalar"
+	"github.com/neoyagami/gonum/floats/scalar"
+	"github.com/neoyagami/gonum/internal/cmplx64"
+	"github.com/neoyagami/gonum/internal/math32"
 )
 
 const (

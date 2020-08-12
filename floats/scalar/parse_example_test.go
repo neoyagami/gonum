@@ -10,8 +10,8 @@ import (
 	"log"
 	"strings"
 
-	"neoyagami/gonum/floats/scalar"
-	"neoyagami/gonum/stat"
+	"github.com/neoyagami/gonum/floats/scalar"
+	"github.com/neoyagami/gonum/stat"
 )
 
 func ExampleParseWithNA() {

@@ -7,8 +7,8 @@ package f64_test
 import (
 	"testing"
 
-	"neoyagami/gonum/floats/scalar"
-	. "neoyagami/gonum/internal/asm/f64"
+	"github.com/neoyagami/gonum/floats/scalar"
+	. "github.com/neoyagami/gonum/internal/asm/f64"
 )
 
 func TestL1Norm(t *testing.T) {

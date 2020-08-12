@@ -9,4 +9,4 @@
 // probability distributions, and sampling; tools for function
 // differentiation, integration, and optimization; network creation and
 // analysis; and more.
-package gonum // import "neoyagami/gonum"
+package gonum // import "github.com/neoyagami/gonum"

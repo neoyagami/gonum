@@ -13,8 +13,8 @@ import (
 
 	"golang.org/x/exp/rand"
 
-	"neoyagami/gonum/blas/blas64"
-	"neoyagami/gonum/floats"
+	"github.com/neoyagami/gonum/blas/blas64"
+	"github.com/neoyagami/gonum/floats"
 )
 
 func asBasicMatrix(d *Dense) Matrix              { return (*basicMatrix)(d) }

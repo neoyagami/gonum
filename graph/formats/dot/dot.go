@@ -17,9 +17,9 @@ import (
 	"io"
 	"io/ioutil"
 
-	"neoyagami/gonum/graph/formats/dot/ast"
-	"neoyagami/gonum/graph/formats/dot/internal/lexer"
-	"neoyagami/gonum/graph/formats/dot/internal/parser"
+	"github.com/neoyagami/gonum/graph/formats/dot/ast"
+	"github.com/neoyagami/gonum/graph/formats/dot/internal/lexer"
+	"github.com/neoyagami/gonum/graph/formats/dot/internal/parser"
 )
 
 // ParseFile parses the given Graphviz DOT file into an AST.

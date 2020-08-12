@@ -13,9 +13,9 @@ import (
 	"strconv"
 	"strings"
 
-	"neoyagami/gonum/graph"
-	"neoyagami/gonum/graph/encoding"
-	"neoyagami/gonum/graph/internal/ordered"
+	"github.com/neoyagami/gonum/graph"
+	"github.com/neoyagami/gonum/graph/encoding"
+	"github.com/neoyagami/gonum/graph/internal/ordered"
 )
 
 // Node is a DOT graph node.

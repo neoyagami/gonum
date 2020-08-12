@@ -10,7 +10,7 @@ import (
 	"math/cmplx"
 	"testing"
 
-	. "neoyagami/gonum/internal/asm/c128"
+	. "github.com/neoyagami/gonum/internal/asm/c128"
 )
 
 // nanwith copied from floats package

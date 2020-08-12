@@ -9,7 +9,7 @@ import (
 	"log"
 	"math"
 
-	"neoyagami/gonum/mat"
+	"github.com/neoyagami/gonum/mat"
 )
 
 func ExampleGSVD() {

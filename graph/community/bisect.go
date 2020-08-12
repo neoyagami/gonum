@@ -11,7 +11,7 @@ import (
 
 	"golang.org/x/exp/rand"
 
-	"neoyagami/gonum/graph"
+	"github.com/neoyagami/gonum/graph"
 )
 
 // Interval is an interval of resolutions with a common score.

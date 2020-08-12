@@ -4,4 +4,4 @@
 
 // Package cmplx64 provides complex64 versions of standard library math/cmplx
 // package routines used by gonum/blas.
-package cmplx64 // import "neoyagami/gonum/internal/cmplx64"
+package cmplx64 // import "github.com/neoyagami/gonum/internal/cmplx64"

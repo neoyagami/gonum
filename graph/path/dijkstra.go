@@ -7,8 +7,8 @@ package path
 import (
 	"container/heap"
 
-	"neoyagami/gonum/graph"
-	"neoyagami/gonum/graph/traverse"
+	"github.com/neoyagami/gonum/graph"
+	"github.com/neoyagami/gonum/graph/traverse"
 )
 
 // DijkstraFrom returns a shortest-path tree for a shortest path from u to all nodes in

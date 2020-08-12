@@ -7,8 +7,8 @@ package testlapack
 import (
 	"testing"
 
-	"neoyagami/gonum/blas"
-	"neoyagami/gonum/floats"
+	"github.com/neoyagami/gonum/blas"
+	"github.com/neoyagami/gonum/floats"
 )
 
 type Dpotf2er interface {

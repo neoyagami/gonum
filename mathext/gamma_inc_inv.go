@@ -10,7 +10,7 @@ package mathext
 import (
 	"math"
 
-	"neoyagami/gonum/mathext/internal/cephes"
+	"github.com/neoyagami/gonum/mathext/internal/cephes"
 )
 
 const (

@@ -4,4 +4,4 @@
 
 // Package mathext implements special math functions not implemented by the
 // Go standard library.
-package mathext // import "neoyagami/gonum/mathext"
+package mathext // import "github.com/neoyagami/gonum/mathext"

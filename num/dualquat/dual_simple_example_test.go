@@ -7,8 +7,8 @@ package dualquat_test
 import (
 	"fmt"
 
-	"neoyagami/gonum/num/dualquat"
-	"neoyagami/gonum/num/quat"
+	"github.com/neoyagami/gonum/num/dualquat"
+	"github.com/neoyagami/gonum/num/quat"
 )
 
 func Example_displace() {

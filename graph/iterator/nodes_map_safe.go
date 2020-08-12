@@ -9,7 +9,7 @@ package iterator
 import (
 	"reflect"
 
-	"neoyagami/gonum/graph"
+	"github.com/neoyagami/gonum/graph"
 )
 
 // Nodes implements the graph.Nodes interfaces.

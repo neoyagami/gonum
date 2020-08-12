@@ -7,4 +7,4 @@
 // metric space.
 //
 // See http://pnylab.com/papers/vptree/vptree.pdf for details of vp-trees.
-package vptree // import "neoyagami/gonum/spatial/vptree"
+package vptree // import "github.com/neoyagami/gonum/spatial/vptree"

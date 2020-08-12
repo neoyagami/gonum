@@ -9,8 +9,8 @@ import (
 	"math"
 	"testing"
 
-	"neoyagami/gonum/floats/scalar"
-	"neoyagami/gonum/num/quat"
+	"github.com/neoyagami/gonum/floats/scalar"
+	"github.com/neoyagami/gonum/num/quat"
 )
 
 var formatTests = []struct {

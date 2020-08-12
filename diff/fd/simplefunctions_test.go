@@ -5,8 +5,8 @@
 package fd
 
 import (
-	"neoyagami/gonum/floats"
-	"neoyagami/gonum/mat"
+	"github.com/neoyagami/gonum/floats"
+	"github.com/neoyagami/gonum/mat"
 )
 
 // ConstFunc is a constant function returning the value held by the type.

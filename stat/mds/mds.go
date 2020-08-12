@@ -7,8 +7,8 @@ package mds
 import (
 	"math"
 
-	"neoyagami/gonum/blas/blas64"
-	"neoyagami/gonum/mat"
+	"github.com/neoyagami/gonum/blas/blas64"
+	"github.com/neoyagami/gonum/mat"
 )
 
 // TorgersonScaling converts a dissimilarity matrix to a matrix containing

@@ -9,8 +9,8 @@ import (
 	"math"
 	"time"
 
-	"neoyagami/gonum/floats"
-	"neoyagami/gonum/mat"
+	"github.com/neoyagami/gonum/floats"
+	"github.com/neoyagami/gonum/mat"
 )
 
 const (

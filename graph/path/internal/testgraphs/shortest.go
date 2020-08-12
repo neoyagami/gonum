@@ -7,8 +7,8 @@ package testgraphs
 import (
 	"math"
 
-	"neoyagami/gonum/graph"
-	"neoyagami/gonum/graph/simple"
+	"github.com/neoyagami/gonum/graph"
+	"github.com/neoyagami/gonum/graph/simple"
 )
 
 // ShortestPathTests are graphs used to test the static shortest path routines in path: BellmanFord,

@@ -5,7 +5,7 @@
 package linear
 
 import (
-	"neoyagami/gonum/graph"
+	"github.com/neoyagami/gonum/graph"
 )
 
 // NodeStack implements a LIFO stack of graph.Node.

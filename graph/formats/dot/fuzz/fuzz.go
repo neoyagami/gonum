@@ -10,7 +10,7 @@ import (
 	"bytes"
 	"os/exec"
 
-	"neoyagami/gonum/graph/formats/dot"
+	"github.com/neoyagami/gonum/graph/formats/dot"
 )
 
 // Fuzz implements the fuzzing function required for go-fuzz.

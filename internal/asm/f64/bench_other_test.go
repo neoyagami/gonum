@@ -8,7 +8,7 @@ import (
 	"math"
 	"testing"
 
-	. "neoyagami/gonum/internal/asm/f64"
+	. "github.com/neoyagami/gonum/internal/asm/f64"
 )
 
 func benchL1Norm(f func(x []float64) float64, sz int, t *testing.B) {

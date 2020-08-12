@@ -7,9 +7,9 @@ package network
 import (
 	"math"
 
-	"neoyagami/gonum/graph"
-	"neoyagami/gonum/graph/internal/linear"
-	"neoyagami/gonum/graph/path"
+	"github.com/neoyagami/gonum/graph"
+	"github.com/neoyagami/gonum/graph/internal/linear"
+	"github.com/neoyagami/gonum/graph/path"
 )
 
 // Betweenness returns the non-zero betweenness centrality for nodes in the unweighted graph g.

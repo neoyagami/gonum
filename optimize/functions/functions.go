@@ -7,8 +7,8 @@ package functions
 import (
 	"math"
 
-	"neoyagami/gonum/floats"
-	"neoyagami/gonum/mat"
+	"github.com/neoyagami/gonum/floats"
+	"github.com/neoyagami/gonum/mat"
 )
 
 // Beale implements the Beale's function.

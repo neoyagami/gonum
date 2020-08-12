@@ -9,7 +9,7 @@ import (
 	"fmt"
 	"math"
 
-	"neoyagami/gonum/spatial/r3"
+	"github.com/neoyagami/gonum/spatial/r3"
 )
 
 // Particle3 is a particle in a volume.

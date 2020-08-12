@@ -5,9 +5,9 @@
 package gonum
 
 import (
-	"neoyagami/gonum/blas"
-	"neoyagami/gonum/internal/asm/f32"
-	"neoyagami/gonum/internal/asm/f64"
+	"github.com/neoyagami/gonum/blas"
+	"github.com/neoyagami/gonum/internal/asm/f32"
+	"github.com/neoyagami/gonum/internal/asm/f64"
 )
 
 // TODO(Kunde21):  Merge these methods back into level2double/level2single when Sgemv assembly kernels are merged into f32.

@@ -7,8 +7,8 @@ package quad
 import (
 	"math"
 
-	"neoyagami/gonum/floats"
-	"neoyagami/gonum/mathext"
+	"github.com/neoyagami/gonum/floats"
+	"github.com/neoyagami/gonum/mathext"
 )
 
 // Hermite generates sample locations and weights for performing quadrature with

@@ -11,7 +11,7 @@ import (
 
 	"golang.org/x/exp/rand"
 
-	. "neoyagami/gonum/internal/asm/f64"
+	. "github.com/neoyagami/gonum/internal/asm/f64"
 )
 
 func TestDotUnitary(t *testing.T) {

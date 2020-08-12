@@ -7,10 +7,10 @@ package mat
 import (
 	"math"
 
-	"neoyagami/gonum/blas"
-	"neoyagami/gonum/blas/blas64"
-	"neoyagami/gonum/lapack"
-	"neoyagami/gonum/lapack/lapack64"
+	"github.com/neoyagami/gonum/blas"
+	"github.com/neoyagami/gonum/blas/blas64"
+	"github.com/neoyagami/gonum/lapack"
+	"github.com/neoyagami/gonum/lapack/lapack64"
 )
 
 const badLQ = "mat: invalid LQ factorization"

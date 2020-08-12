@@ -8,4 +8,4 @@
 // Each sampling routine is implemented as a stateless function with a
 // complementary wrapper type. The wrapper types allow the sampling routines
 // to implement interfaces.
-package sampleuv // import "neoyagami/gonum/stat/sampleuv"
+package sampleuv // import "github.com/neoyagami/gonum/stat/sampleuv"

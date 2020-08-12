@@ -7,7 +7,7 @@ package quat
 import (
 	"testing"
 
-	"neoyagami/gonum/floats/scalar"
+	"github.com/neoyagami/gonum/floats/scalar"
 )
 
 var invTests = []struct {

@@ -7,7 +7,7 @@ package floats_test
 import (
 	"fmt"
 
-	"neoyagami/gonum/floats"
+	"github.com/neoyagami/gonum/floats"
 )
 
 // Set of examples for all the functions

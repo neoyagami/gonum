@@ -8,10 +8,10 @@ import (
 	"fmt"
 	"testing"
 
-	"neoyagami/gonum/graph"
-	"neoyagami/gonum/graph/encoding"
-	"neoyagami/gonum/graph/multi"
-	"neoyagami/gonum/graph/simple"
+	"github.com/neoyagami/gonum/graph"
+	"github.com/neoyagami/gonum/graph/encoding"
+	"github.com/neoyagami/gonum/graph/multi"
+	"github.com/neoyagami/gonum/graph/simple"
 )
 
 func TestRoundTrip(t *testing.T) {

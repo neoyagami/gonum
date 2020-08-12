@@ -5,15 +5,15 @@
 package blas32
 
 import (
-	"neoyagami/gonum/blas"
-	"neoyagami/gonum/blas/gonum"
+	"github.com/neoyagami/gonum/blas"
+	"github.com/neoyagami/gonum/blas/gonum"
 )
 
 var blas32 blas.Float32 = gonum.Implementation{}
 
 // Use sets the BLAS float32 implementation to be used by subsequent BLAS calls.
 // The default implementation is
-// neoyagami/gonum/blas/gonum.Implementation.
+// github.com/neoyagami/gonum/blas/gonum.Implementation.
 func Use(b blas.Float32) {
 	blas32 = b
 }

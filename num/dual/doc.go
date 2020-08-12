@@ -7,7 +7,7 @@
 //
 // See https://en.wikipedia.org/wiki/Dual_number for details of their properties
 // and uses.
-package dual // imports "neoyagami/gonum/num/dual"
+package dual // imports "github.com/neoyagami/gonum/num/dual"
 
 // TODO(kortschak): Handle special cases properly.
 //  - Pow

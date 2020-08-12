@@ -7,7 +7,7 @@ package sampleuv
 import (
 	"golang.org/x/exp/rand"
 
-	"neoyagami/gonum/floats/scalar"
+	"github.com/neoyagami/gonum/floats/scalar"
 )
 
 // Weighted provides sampling without replacement from a collection of items with

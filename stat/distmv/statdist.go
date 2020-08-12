@@ -7,11 +7,11 @@ package distmv
 import (
 	"math"
 
-	"neoyagami/gonum/floats"
-	"neoyagami/gonum/mat"
-	"neoyagami/gonum/mathext"
-	"neoyagami/gonum/spatial/r1"
-	"neoyagami/gonum/stat"
+	"github.com/neoyagami/gonum/floats"
+	"github.com/neoyagami/gonum/mat"
+	"github.com/neoyagami/gonum/mathext"
+	"github.com/neoyagami/gonum/spatial/r1"
+	"github.com/neoyagami/gonum/stat"
 )
 
 // Bhattacharyya is a type for computing the Bhattacharyya distance between

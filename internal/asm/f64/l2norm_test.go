@@ -9,7 +9,7 @@ import (
 	"math"
 	"testing"
 
-	. "neoyagami/gonum/internal/asm/f64"
+	. "github.com/neoyagami/gonum/internal/asm/f64"
 )
 
 // nanwith copied from floats package

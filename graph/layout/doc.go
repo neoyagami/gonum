@@ -3,4 +3,4 @@
 // license that can be found in the LICENSE file.
 
 // Package layout defines functions for performing graph layout.
-package layout // import "neoyagami/gonum/graph/layout"
+package layout // import "github.com/neoyagami/gonum/graph/layout"

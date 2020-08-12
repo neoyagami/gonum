@@ -4,4 +4,4 @@
 
 // Package astx implements utility functions for generating abstract syntax
 // trees of Graphviz DOT graphs.
-package astx // import "neoyagami/gonum/graph/formats/dot/internal/astx"
+package astx // import "github.com/neoyagami/gonum/graph/formats/dot/internal/astx"

@@ -10,10 +10,10 @@ import (
 	"sort"
 	"text/tabwriter"
 
-	"neoyagami/gonum/graph"
-	"neoyagami/gonum/graph/product"
-	"neoyagami/gonum/graph/simple"
-	"neoyagami/gonum/graph/topo"
+	"github.com/neoyagami/gonum/graph"
+	"github.com/neoyagami/gonum/graph/product"
+	"github.com/neoyagami/gonum/graph/simple"
+	"github.com/neoyagami/gonum/graph/topo"
 )
 
 // atom is a graph.Node representing an atom in a molecule.

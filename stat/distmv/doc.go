@@ -3,4 +3,4 @@
 // license that can be found in the LICENSE file.
 
 // Package distmv provides multivariate random distribution types.
-package distmv // import "neoyagami/gonum/stat/distmv"
+package distmv // import "github.com/neoyagami/gonum/stat/distmv"

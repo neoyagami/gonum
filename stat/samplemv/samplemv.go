@@ -10,8 +10,8 @@ import (
 
 	"golang.org/x/exp/rand"
 
-	"neoyagami/gonum/mat"
-	"neoyagami/gonum/stat/distmv"
+	"github.com/neoyagami/gonum/mat"
+	"github.com/neoyagami/gonum/stat/distmv"
 )
 
 const errLengthMismatch = "samplemv: slice length mismatch"

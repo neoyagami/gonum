@@ -8,9 +8,9 @@ import (
 	"path/filepath"
 	"testing"
 
-	"neoyagami/gonum/graph"
-	"neoyagami/gonum/graph/simple"
-	"neoyagami/gonum/spatial/r2"
+	"github.com/neoyagami/gonum/graph"
+	"github.com/neoyagami/gonum/graph/simple"
+	"github.com/neoyagami/gonum/spatial/r2"
 	"gonum.org/v1/plot"
 	"gonum.org/v1/plot/vg"
 )

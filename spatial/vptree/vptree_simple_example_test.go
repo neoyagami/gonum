@@ -8,7 +8,7 @@ import (
 	"fmt"
 	"log"
 
-	"neoyagami/gonum/spatial/vptree"
+	"github.com/neoyagami/gonum/spatial/vptree"
 )
 
 func ExampleTree() {

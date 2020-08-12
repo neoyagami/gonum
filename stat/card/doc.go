@@ -3,4 +3,4 @@
 // license that can be found in the LICENSE file.
 
 // Package card provides cardinality estimation functions.
-package card // import "neoyagami/gonum/stat/card"
+package card // import "github.com/neoyagami/gonum/stat/card"

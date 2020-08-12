@@ -7,8 +7,8 @@ package distuv_test
 import (
 	"fmt"
 
-	"neoyagami/gonum/stat"
-	"neoyagami/gonum/stat/distuv"
+	"github.com/neoyagami/gonum/stat"
+	"github.com/neoyagami/gonum/stat/distuv"
 )
 
 func ExampleNormal() {

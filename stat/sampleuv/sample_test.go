@@ -8,9 +8,9 @@ import (
 	"sort"
 	"testing"
 
-	"neoyagami/gonum/floats/scalar"
-	"neoyagami/gonum/stat"
-	"neoyagami/gonum/stat/distuv"
+	"github.com/neoyagami/gonum/floats/scalar"
+	"github.com/neoyagami/gonum/stat"
+	"github.com/neoyagami/gonum/stat/distuv"
 )
 
 const tol = 1e-2

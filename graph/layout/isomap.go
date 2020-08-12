@@ -5,11 +5,11 @@
 package layout
 
 import (
-	"neoyagami/gonum/graph"
-	"neoyagami/gonum/graph/path"
-	"neoyagami/gonum/mat"
-	"neoyagami/gonum/spatial/r2"
-	"neoyagami/gonum/stat/mds"
+	"github.com/neoyagami/gonum/graph"
+	"github.com/neoyagami/gonum/graph/path"
+	"github.com/neoyagami/gonum/mat"
+	"github.com/neoyagami/gonum/spatial/r2"
+	"github.com/neoyagami/gonum/stat/mds"
 )
 
 // IsomapR2 implements a graph layout algorithm based on the Isomap

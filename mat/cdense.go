@@ -4,7 +4,7 @@
 
 package mat
 
-import "neoyagami/gonum/blas/cblas128"
+import "github.com/neoyagami/gonum/blas/cblas128"
 
 var (
 	cDense *CDense

@@ -7,7 +7,7 @@ package path
 import (
 	"math"
 
-	"neoyagami/gonum/graph"
+	"github.com/neoyagami/gonum/graph"
 )
 
 // FloydWarshall returns a shortest-path tree for the graph g or false indicating

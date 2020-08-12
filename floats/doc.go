@@ -8,4 +8,4 @@
 //
 // The convention used is that when a slice is being modified in place, it has
 // the name dst.
-package floats // import "neoyagami/gonum/floats"
+package floats // import "github.com/neoyagami/gonum/floats"

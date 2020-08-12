@@ -8,8 +8,8 @@ import (
 	"fmt"
 	"math"
 
-	"neoyagami/gonum/diff/fd"
-	"neoyagami/gonum/mat"
+	"github.com/neoyagami/gonum/diff/fd"
+	"github.com/neoyagami/gonum/mat"
 )
 
 func ExampleDerivative() {

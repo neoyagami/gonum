@@ -10,9 +10,9 @@ import (
 	"sort"
 	"testing"
 
-	"neoyagami/gonum/graph"
-	"neoyagami/gonum/graph/internal/ordered"
-	"neoyagami/gonum/graph/path/internal/testgraphs"
+	"github.com/neoyagami/gonum/graph"
+	"github.com/neoyagami/gonum/graph/internal/ordered"
+	"github.com/neoyagami/gonum/graph/path/internal/testgraphs"
 )
 
 func TestFloydWarshall(t *testing.T) {

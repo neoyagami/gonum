@@ -7,8 +7,8 @@ package spatial_test
 import (
 	"fmt"
 
-	"neoyagami/gonum/mat"
-	"neoyagami/gonum/stat/spatial"
+	"github.com/neoyagami/gonum/mat"
+	"github.com/neoyagami/gonum/stat/spatial"
 )
 
 func ExampleGlobalMoransI_linear() {

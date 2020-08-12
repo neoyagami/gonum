@@ -16,7 +16,7 @@ import (
 	"fmt"
 	"strings"
 
-	"neoyagami/gonum/graph/formats/dot/internal/token"
+	"github.com/neoyagami/gonum/graph/formats/dot/internal/token"
 )
 
 type ErrorSymbol interface {

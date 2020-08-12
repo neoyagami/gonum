@@ -4,7 +4,7 @@
 
 package lapack
 
-import "neoyagami/gonum/blas"
+import "github.com/neoyagami/gonum/blas"
 
 // Complex128 defines the public complex128 LAPACK API supported by gonum/lapack.
 type Complex128 interface{}

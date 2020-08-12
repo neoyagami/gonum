@@ -7,9 +7,9 @@ package optimize
 import (
 	"testing"
 
-	"neoyagami/gonum/mat"
-	"neoyagami/gonum/optimize/functions"
-	"neoyagami/gonum/stat/distmv"
+	"github.com/neoyagami/gonum/mat"
+	"github.com/neoyagami/gonum/optimize/functions"
+	"github.com/neoyagami/gonum/stat/distmv"
 )
 
 func TestGuessAndCheck(t *testing.T) {

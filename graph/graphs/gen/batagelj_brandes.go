@@ -13,7 +13,7 @@ import (
 
 	"golang.org/x/exp/rand"
 
-	"neoyagami/gonum/graph"
+	"github.com/neoyagami/gonum/graph"
 )
 
 // Gnp constructs a Gilbert’s model subgraph in the destination, dst, of order n. Edges

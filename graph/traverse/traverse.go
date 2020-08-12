@@ -5,9 +5,9 @@
 package traverse
 
 import (
-	"neoyagami/gonum/graph"
-	"neoyagami/gonum/graph/internal/linear"
-	"neoyagami/gonum/graph/internal/set"
+	"github.com/neoyagami/gonum/graph"
+	"github.com/neoyagami/gonum/graph/internal/linear"
+	"github.com/neoyagami/gonum/graph/internal/set"
 )
 
 var _ Graph = graph.Graph(nil)

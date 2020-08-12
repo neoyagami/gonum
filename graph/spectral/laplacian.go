@@ -7,8 +7,8 @@ package spectral
 import (
 	"math"
 
-	"neoyagami/gonum/graph"
-	"neoyagami/gonum/mat"
+	"github.com/neoyagami/gonum/graph"
+	"github.com/neoyagami/gonum/mat"
 )
 
 // Laplacian is a graph Laplacian matrix.

@@ -8,8 +8,8 @@ import (
 	"math"
 	"testing"
 
-	"neoyagami/gonum/floats"
-	"neoyagami/gonum/integrate/testquad"
+	"github.com/neoyagami/gonum/floats"
+	"github.com/neoyagami/gonum/integrate/testquad"
 )
 
 func TestRomberg(t *testing.T) {

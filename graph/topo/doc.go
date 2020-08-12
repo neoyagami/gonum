@@ -3,4 +3,4 @@
 // license that can be found in the LICENSE file.
 
 // Package topo provides graph topology analysis functions.
-package topo // import "neoyagami/gonum/graph/topo"
+package topo // import "github.com/neoyagami/gonum/graph/topo"

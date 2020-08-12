@@ -8,6 +8,6 @@
 // We encourage outside contributions of additional test functions that exhibit
 // properties not already covered in the testing suite or that have
 // significance due to prior use as benchmark cases.
-package functions // import "neoyagami/gonum/optimize/functions"
+package functions // import "github.com/neoyagami/gonum/optimize/functions"
 
 const badInputDim = "functions: wrong input dimension"

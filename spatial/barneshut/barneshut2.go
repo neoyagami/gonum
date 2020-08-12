@@ -9,7 +9,7 @@ import (
 	"fmt"
 	"math"
 
-	"neoyagami/gonum/spatial/r2"
+	"github.com/neoyagami/gonum/spatial/r2"
 )
 
 // Particle2 is a particle in a plane.

@@ -8,7 +8,7 @@
 
 package cmplx64
 
-import math "neoyagami/gonum/internal/math32"
+import math "github.com/neoyagami/gonum/internal/math32"
 
 // IsNaN returns true if either real(x) or imag(x) is NaN
 // and neither is an infinity.

@@ -4,7 +4,7 @@
 
 package gonum
 
-import "neoyagami/gonum/blas"
+import "github.com/neoyagami/gonum/blas"
 
 // Dlacpy copies the elements of A specified by uplo into B. Uplo can specify
 // a triangular portion with blas.Upper or blas.Lower, or can specify all of the

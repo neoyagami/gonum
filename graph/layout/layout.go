@@ -5,8 +5,8 @@
 package layout
 
 import (
-	"neoyagami/gonum/graph"
-	"neoyagami/gonum/spatial/r2"
+	"github.com/neoyagami/gonum/graph"
+	"github.com/neoyagami/gonum/spatial/r2"
 )
 
 // GraphR2 is a graph with planar spatial representation of node positions.

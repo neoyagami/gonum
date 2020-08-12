@@ -8,7 +8,7 @@ import (
 	"fmt"
 	"math"
 
-	"neoyagami/gonum/spatial/kdtree"
+	"github.com/neoyagami/gonum/spatial/kdtree"
 )
 
 func Example_accessiblePublicTransport() {

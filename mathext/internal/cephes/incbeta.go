@@ -12,7 +12,7 @@ package cephes
 import (
 	"math"
 
-	"neoyagami/gonum/mathext/internal/gonum"
+	"github.com/neoyagami/gonum/mathext/internal/gonum"
 )
 
 const (

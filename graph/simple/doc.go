@@ -6,4 +6,4 @@
 // the gonum/graph interfaces.
 //
 // All types in simple return the graph.Empty value for empty iterators.
-package simple // import "neoyagami/gonum/graph/simple"
+package simple // import "github.com/neoyagami/gonum/graph/simple"

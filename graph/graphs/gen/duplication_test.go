@@ -7,8 +7,8 @@ package gen
 import (
 	"testing"
 
-	"neoyagami/gonum/graph"
-	"neoyagami/gonum/graph/simple"
+	"github.com/neoyagami/gonum/graph"
+	"github.com/neoyagami/gonum/graph/simple"
 )
 
 type duplication struct {

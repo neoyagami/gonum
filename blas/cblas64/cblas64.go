@@ -5,15 +5,15 @@
 package cblas64
 
 import (
-	"neoyagami/gonum/blas"
-	"neoyagami/gonum/blas/gonum"
+	"github.com/neoyagami/gonum/blas"
+	"github.com/neoyagami/gonum/blas/gonum"
 )
 
 var cblas64 blas.Complex64 = gonum.Implementation{}
 
 // Use sets the BLAS complex64 implementation to be used by subsequent BLAS calls.
 // The default implementation is
-// neoyagami/gonum/blas/gonum.Implementation.
+// github.com/neoyagami/gonum/blas/gonum.Implementation.
 func Use(b blas.Complex64) {
 	cblas64 = b
 }

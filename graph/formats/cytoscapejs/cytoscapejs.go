@@ -5,7 +5,7 @@
 // Package cytoscapejs implements marshaling and unmarshaling of Cytoscape.js JSON documents.
 //
 // See http://js.cytoscape.org/ for Cytoscape.js documentation.
-package cytoscapejs // import "neoyagami/gonum/graph/formats/cytoscapejs"
+package cytoscapejs // import "github.com/neoyagami/gonum/graph/formats/cytoscapejs"
 
 import (
 	"encoding/json"

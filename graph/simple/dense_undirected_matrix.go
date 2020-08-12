@@ -7,10 +7,10 @@ package simple
 import (
 	"sort"
 
-	"neoyagami/gonum/graph"
-	"neoyagami/gonum/graph/internal/ordered"
-	"neoyagami/gonum/graph/iterator"
-	"neoyagami/gonum/mat"
+	"github.com/neoyagami/gonum/graph"
+	"github.com/neoyagami/gonum/graph/internal/ordered"
+	"github.com/neoyagami/gonum/graph/iterator"
+	"github.com/neoyagami/gonum/mat"
 )
 
 var (

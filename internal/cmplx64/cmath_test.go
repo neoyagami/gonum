@@ -11,7 +11,7 @@ package cmplx64
 import (
 	"testing"
 
-	math "neoyagami/gonum/internal/math32"
+	math "github.com/neoyagami/gonum/internal/math32"
 )
 
 // The higher-precision values in vc26 were used to derive the

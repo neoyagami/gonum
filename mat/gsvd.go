@@ -5,10 +5,10 @@
 package mat
 
 import (
-	"neoyagami/gonum/blas/blas64"
-	"neoyagami/gonum/floats"
-	"neoyagami/gonum/lapack"
-	"neoyagami/gonum/lapack/lapack64"
+	"github.com/neoyagami/gonum/blas/blas64"
+	"github.com/neoyagami/gonum/floats"
+	"github.com/neoyagami/gonum/lapack"
+	"github.com/neoyagami/gonum/lapack/lapack64"
 )
 
 // GSVDKind specifies the treatment of singular vectors during a GSVD

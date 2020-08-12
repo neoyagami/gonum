@@ -8,9 +8,9 @@ import (
 	"fmt"
 	"sort"
 
-	"neoyagami/gonum/graph"
-	"neoyagami/gonum/graph/internal/ordered"
-	"neoyagami/gonum/graph/internal/set"
+	"github.com/neoyagami/gonum/graph"
+	"github.com/neoyagami/gonum/graph/internal/ordered"
+	"github.com/neoyagami/gonum/graph/internal/set"
 )
 
 // Unorderable is an error containing sets of unorderable graph.Nodes.

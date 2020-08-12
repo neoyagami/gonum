@@ -5,8 +5,8 @@
 package network
 
 import (
-	"neoyagami/gonum/graph/spectral"
-	"neoyagami/gonum/mat"
+	"github.com/neoyagami/gonum/graph/spectral"
+	"github.com/neoyagami/gonum/mat"
 )
 
 // Diffuse performs a heat diffusion across nodes of the undirected

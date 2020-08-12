@@ -7,4 +7,4 @@
 // PRNG implementations provided in package prng may be used directly as
 // rand.Source values for the golang.org/x/exp/rand package, and for the
 // math rand package via a wrapper type.
-package prng // import "neoyagami/gonum/mathext/prng"
+package prng // import "github.com/neoyagami/gonum/mathext/prng"

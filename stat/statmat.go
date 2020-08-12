@@ -7,8 +7,8 @@ package stat
 import (
 	"math"
 
-	"neoyagami/gonum/floats"
-	"neoyagami/gonum/mat"
+	"github.com/neoyagami/gonum/floats"
+	"github.com/neoyagami/gonum/mat"
 )
 
 // CovarianceMatrix calculates the covariance matrix (also known as the

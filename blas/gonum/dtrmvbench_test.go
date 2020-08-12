@@ -8,8 +8,8 @@ import (
 	"strconv"
 	"testing"
 
-	"neoyagami/gonum/blas"
-	"neoyagami/gonum/blas/testblas"
+	"github.com/neoyagami/gonum/blas"
+	"github.com/neoyagami/gonum/blas/testblas"
 )
 
 func BenchmarkDtrmv(b *testing.B) {

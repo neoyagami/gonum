@@ -9,7 +9,7 @@ import (
 	"math"
 	"testing"
 
-	"neoyagami/gonum/floats/scalar"
+	"github.com/neoyagami/gonum/floats/scalar"
 )
 
 var arithTests = []struct {

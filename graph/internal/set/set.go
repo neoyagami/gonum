@@ -4,7 +4,7 @@
 
 package set
 
-import "neoyagami/gonum/graph"
+import "github.com/neoyagami/gonum/graph"
 
 // Ints is a set of int identifiers.
 type Ints map[int]struct{}

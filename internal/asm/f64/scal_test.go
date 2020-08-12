@@ -10,8 +10,8 @@ import (
 
 	"golang.org/x/exp/rand"
 
-	"neoyagami/gonum/floats/scalar"
-	. "neoyagami/gonum/internal/asm/f64"
+	"github.com/neoyagami/gonum/floats/scalar"
+	. "github.com/neoyagami/gonum/internal/asm/f64"
 )
 
 var scalTests = []struct {

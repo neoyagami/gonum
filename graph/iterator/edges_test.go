@@ -8,9 +8,9 @@ import (
 	"reflect"
 	"testing"
 
-	"neoyagami/gonum/graph"
-	"neoyagami/gonum/graph/iterator"
-	"neoyagami/gonum/graph/simple"
+	"github.com/neoyagami/gonum/graph"
+	"github.com/neoyagami/gonum/graph/iterator"
+	"github.com/neoyagami/gonum/graph/simple"
 )
 
 type edge struct{ f, t int }

@@ -4,7 +4,7 @@
 
 package stat_test
 
-import "neoyagami/gonum/mat"
+import "github.com/neoyagami/gonum/mat"
 
 // ASA Car Exposition Data of Ramos and Donoho (1983)
 // http://lib.stat.cmu.edu/datasets/cars.desc

@@ -4,4 +4,4 @@
 
 // Package samplemv implements advanced sampling routines from explicit and implicit
 // probability distributions.
-package samplemv // import "neoyagami/gonum/stat/samplemv"
+package samplemv // import "github.com/neoyagami/gonum/stat/samplemv"

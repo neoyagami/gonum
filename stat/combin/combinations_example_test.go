@@ -7,7 +7,7 @@ package combin_test
 import (
 	"fmt"
 
-	"neoyagami/gonum/stat/combin"
+	"github.com/neoyagami/gonum/stat/combin"
 )
 
 func ExampleCartesian() {

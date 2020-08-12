@@ -5,9 +5,9 @@
 package topo
 
 import (
-	"neoyagami/gonum/graph"
-	"neoyagami/gonum/graph/internal/linear"
-	"neoyagami/gonum/graph/internal/set"
+	"github.com/neoyagami/gonum/graph"
+	"github.com/neoyagami/gonum/graph/internal/linear"
+	"github.com/neoyagami/gonum/graph/internal/set"
 )
 
 // UndirectedCyclesIn returns a set of cycles that forms a cycle basis in the graph g.

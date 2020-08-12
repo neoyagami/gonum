@@ -4,7 +4,7 @@
 
 package mathext
 
-import "neoyagami/gonum/mathext/internal/amos"
+import "github.com/neoyagami/gonum/mathext/internal/amos"
 
 // AiryAi returns the value of the Airy function at z. The Airy function here,
 // Ai(z), is one of the two linearly independent solutions to

@@ -3,4 +3,4 @@
 // license that can be found in the LICENSE file.
 
 // Package gen provides random graph generation functions.
-package gen // import "neoyagami/gonum/graph/graphs/gen"
+package gen // import "github.com/neoyagami/gonum/graph/graphs/gen"

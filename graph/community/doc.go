@@ -3,4 +3,4 @@
 // license that can be found in the LICENSE file.
 
 // Package community provides graph community detection functions.
-package community // import "neoyagami/gonum/graph/community"
+package community // import "github.com/neoyagami/gonum/graph/community"

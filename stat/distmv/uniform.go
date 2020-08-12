@@ -8,7 +8,7 @@ import (
 	"math"
 
 	"golang.org/x/exp/rand"
-	"neoyagami/gonum/spatial/r1"
+	"github.com/neoyagami/gonum/spatial/r1"
 )
 
 // Uniform represents a multivariate uniform distribution.

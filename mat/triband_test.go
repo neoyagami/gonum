@@ -8,8 +8,8 @@ import (
 	"reflect"
 	"testing"
 
-	"neoyagami/gonum/blas"
-	"neoyagami/gonum/blas/blas64"
+	"github.com/neoyagami/gonum/blas"
+	"github.com/neoyagami/gonum/blas/blas64"
 )
 
 func TestNewTriBand(t *testing.T) {

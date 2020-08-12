@@ -4,7 +4,7 @@
 
 package optimize
 
-import "neoyagami/gonum/floats"
+import "github.com/neoyagami/gonum/floats"
 
 var (
 	_ Method          = (*GradientDescent)(nil)

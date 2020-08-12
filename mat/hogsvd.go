@@ -7,7 +7,7 @@ package mat
 import (
 	"errors"
 
-	"neoyagami/gonum/blas/blas64"
+	"github.com/neoyagami/gonum/blas/blas64"
 )
 
 // HOGSVD is a type for creating and using the Higher Order Generalized Singular Value

@@ -8,7 +8,7 @@ import (
 	"fmt"
 	"testing"
 
-	"neoyagami/gonum/cmplxs/cscalar"
+	"github.com/neoyagami/gonum/cmplxs/cscalar"
 )
 
 var dotTests = []struct {

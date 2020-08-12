@@ -7,4 +7,4 @@
 //
 // See https://en.wikipedia.org/wiki/Barnes–Hut_simulation, http://arborjs.org/docs/barnes-hut
 // and https://jheer.github.io/barnes-hut/ for details.
-package barneshut // import "neoyagami/gonum/spatial/barneshut"
+package barneshut // import "github.com/neoyagami/gonum/spatial/barneshut"

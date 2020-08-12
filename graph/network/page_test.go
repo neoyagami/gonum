@@ -10,8 +10,8 @@ import (
 	"sort"
 	"testing"
 
-	"neoyagami/gonum/floats/scalar"
-	"neoyagami/gonum/graph/simple"
+	"github.com/neoyagami/gonum/floats/scalar"
+	"github.com/neoyagami/gonum/graph/simple"
 )
 
 var pageRankTests = []struct {

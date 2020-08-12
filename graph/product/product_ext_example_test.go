@@ -7,11 +7,11 @@ package product_test
 import (
 	"fmt"
 
-	"neoyagami/gonum/graph"
-	"neoyagami/gonum/graph/iterator"
-	"neoyagami/gonum/graph/product"
-	"neoyagami/gonum/graph/simple"
-	"neoyagami/gonum/graph/topo"
+	"github.com/neoyagami/gonum/graph"
+	"github.com/neoyagami/gonum/graph/iterator"
+	"github.com/neoyagami/gonum/graph/product"
+	"github.com/neoyagami/gonum/graph/simple"
+	"github.com/neoyagami/gonum/graph/topo"
 )
 
 // person is a graph.Node representing a person.

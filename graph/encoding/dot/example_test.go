@@ -7,9 +7,9 @@ package dot_test
 import (
 	"fmt"
 
-	"neoyagami/gonum/graph"
-	"neoyagami/gonum/graph/encoding/dot"
-	"neoyagami/gonum/graph/simple"
+	"github.com/neoyagami/gonum/graph"
+	"github.com/neoyagami/gonum/graph/encoding/dot"
+	"github.com/neoyagami/gonum/graph/simple"
 )
 
 type edgeWithPorts struct {

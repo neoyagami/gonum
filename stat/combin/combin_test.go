@@ -10,7 +10,7 @@ import (
 	"strconv"
 	"testing"
 
-	"neoyagami/gonum/floats/scalar"
+	"github.com/neoyagami/gonum/floats/scalar"
 )
 
 // intSosMatch returns true if the two slices of slices are equal.

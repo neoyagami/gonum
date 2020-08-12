@@ -4,4 +4,4 @@
 
 // Package ast declares the types used to represent abstract syntax trees of
 // Graphviz DOT graphs.
-package ast // import "neoyagami/gonum/graph/formats/dot/ast"
+package ast // import "github.com/neoyagami/gonum/graph/formats/dot/ast"

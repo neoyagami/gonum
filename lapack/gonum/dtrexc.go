@@ -4,7 +4,7 @@
 
 package gonum
 
-import "neoyagami/gonum/lapack"
+import "github.com/neoyagami/gonum/lapack"
 
 // Dtrexc reorders the real Schur factorization of a n×n real matrix
 //  A = Q*T*Qᵀ

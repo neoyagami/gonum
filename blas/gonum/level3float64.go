@@ -5,8 +5,8 @@
 package gonum
 
 import (
-	"neoyagami/gonum/blas"
-	"neoyagami/gonum/internal/asm/f64"
+	"github.com/neoyagami/gonum/blas"
+	"github.com/neoyagami/gonum/internal/asm/f64"
 )
 
 var _ blas.Float64Level3 = Implementation{}

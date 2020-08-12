@@ -4,7 +4,7 @@
 
 package mat_test
 
-import "neoyagami/gonum/mat"
+import "github.com/neoyagami/gonum/mat"
 
 // FAO is a dataset extracted from Food and Agriculture Organization of the
 // United Nations "FAO Statistical Pocketbook: World Food and Agriculture 2015".

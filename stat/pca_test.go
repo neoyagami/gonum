@@ -8,8 +8,8 @@ import (
 	"math"
 	"testing"
 
-	"neoyagami/gonum/floats/scalar"
-	"neoyagami/gonum/mat"
+	"github.com/neoyagami/gonum/floats/scalar"
+	"github.com/neoyagami/gonum/mat"
 )
 
 func TestPrincipalComponents(t *testing.T) {

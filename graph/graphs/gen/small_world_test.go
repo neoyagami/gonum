@@ -7,7 +7,7 @@ package gen
 import (
 	"testing"
 
-	"neoyagami/gonum/graph/simple"
+	"github.com/neoyagami/gonum/graph/simple"
 )
 
 var smallWorldDimensionParameters = [][]int{

@@ -4,4 +4,4 @@
 
 // Package fftpack implements Discrete Fourier Transform functions
 // ported from the Fortran implementation of FFTPACK.
-package fftpack // import "neoyagami/gonum/dsp/fourier/internal/fftpack"
+package fftpack // import "github.com/neoyagami/gonum/dsp/fourier/internal/fftpack"

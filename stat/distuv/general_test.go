@@ -9,8 +9,8 @@ import (
 	"math"
 	"testing"
 
-	"neoyagami/gonum/diff/fd"
-	"neoyagami/gonum/floats"
+	"github.com/neoyagami/gonum/diff/fd"
+	"github.com/neoyagami/gonum/floats"
 )
 
 type univariateProbPoint struct {

@@ -7,8 +7,8 @@ package testblas
 import (
 	"testing"
 
-	"neoyagami/gonum/blas"
-	"neoyagami/gonum/floats"
+	"github.com/neoyagami/gonum/blas"
+	"github.com/neoyagami/gonum/floats"
 )
 
 type Dspmver interface {

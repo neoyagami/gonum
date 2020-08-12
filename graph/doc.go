@@ -5,5 +5,5 @@
 // Package graph defines graph interfaces.
 //
 // Routines to test contract compliance by user implemented graph types
-// are available in neoyagami/gonum/graph/testgraph.
-package graph // import "neoyagami/gonum/graph"
+// are available in github.com/neoyagami/gonum/graph/testgraph.
+package graph // import "github.com/neoyagami/gonum/graph"

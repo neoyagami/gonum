@@ -8,7 +8,7 @@ import (
 	"math"
 	"testing"
 
-	"neoyagami/gonum/spatial/r1"
+	"github.com/neoyagami/gonum/spatial/r1"
 )
 
 func TestUniformEntropy(t *testing.T) {

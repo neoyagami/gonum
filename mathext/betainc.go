@@ -4,7 +4,7 @@
 
 package mathext
 
-import "neoyagami/gonum/mathext/internal/cephes"
+import "github.com/neoyagami/gonum/mathext/internal/cephes"
 
 // RegIncBeta returns the value of the regularized incomplete beta function
 // I(x;a,b). It is defined as

@@ -3,4 +3,4 @@
 // license that can be found in the LICENSE file.
 
 // Package encoding provides a common graph encoding API.
-package encoding // import "neoyagami/gonum/graph/encoding"
+package encoding // import "github.com/neoyagami/gonum/graph/encoding"

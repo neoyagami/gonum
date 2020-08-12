@@ -8,10 +8,10 @@ import (
 	"math"
 	"testing"
 
-	"neoyagami/gonum/floats/scalar"
-	"neoyagami/gonum/graph"
-	"neoyagami/gonum/graph/simple"
-	"neoyagami/gonum/graph/spectral"
+	"github.com/neoyagami/gonum/floats/scalar"
+	"github.com/neoyagami/gonum/graph"
+	"github.com/neoyagami/gonum/graph/simple"
+	"github.com/neoyagami/gonum/graph/spectral"
 )
 
 var diffuseTests = []struct {

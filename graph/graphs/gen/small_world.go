@@ -11,8 +11,8 @@ import (
 
 	"golang.org/x/exp/rand"
 
-	"neoyagami/gonum/graph"
-	"neoyagami/gonum/stat/sampleuv"
+	"github.com/neoyagami/gonum/graph"
+	"github.com/neoyagami/gonum/stat/sampleuv"
 )
 
 // NavigableSmallWorld constructs an N-dimensional grid with guaranteed local connectivity

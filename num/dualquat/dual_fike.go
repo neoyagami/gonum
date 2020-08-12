@@ -31,7 +31,7 @@ package dualquat
 import (
 	"math"
 
-	"neoyagami/gonum/num/quat"
+	"github.com/neoyagami/gonum/num/quat"
 )
 
 // PowReal returns d**p, the base-d exponential of p.

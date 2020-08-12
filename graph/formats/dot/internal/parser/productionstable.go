@@ -13,8 +13,8 @@
 package parser
 
 import (
-	"neoyagami/gonum/graph/formats/dot/ast"
-	"neoyagami/gonum/graph/formats/dot/internal/astx"
+	"github.com/neoyagami/gonum/graph/formats/dot/ast"
+	"github.com/neoyagami/gonum/graph/formats/dot/internal/astx"
 )
 
 type (

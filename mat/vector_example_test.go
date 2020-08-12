@@ -7,8 +7,8 @@ package mat_test
 import (
 	"fmt"
 
-	"neoyagami/gonum/blas/blas64"
-	"neoyagami/gonum/mat"
+	"github.com/neoyagami/gonum/blas/blas64"
+	"github.com/neoyagami/gonum/mat"
 )
 
 // This example shows how simple user types can be constructed to

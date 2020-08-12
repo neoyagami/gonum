@@ -8,7 +8,7 @@
 //
 // See https://doi.org/10.2514/6.2011-886 and http://adl.stanford.edu/hyperdual/ for
 // details of their properties and uses.
-package hyperdual // imports "neoyagami/gonum/num/hyperdual"
+package hyperdual // imports "github.com/neoyagami/gonum/num/hyperdual"
 
 // TODO(kortschak): Handle special cases properly.
 //  - Pow

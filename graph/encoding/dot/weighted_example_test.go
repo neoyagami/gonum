@@ -10,10 +10,10 @@ import (
 	"math"
 	"strconv"
 
-	"neoyagami/gonum/graph"
-	"neoyagami/gonum/graph/encoding"
-	"neoyagami/gonum/graph/encoding/dot"
-	"neoyagami/gonum/graph/simple"
+	"github.com/neoyagami/gonum/graph"
+	"github.com/neoyagami/gonum/graph/encoding"
+	"github.com/neoyagami/gonum/graph/encoding/dot"
+	"github.com/neoyagami/gonum/graph/simple"
 )
 
 // dotGraph provides a shim for interaction between the DOT

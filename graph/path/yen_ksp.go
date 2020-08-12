@@ -7,8 +7,8 @@ package path
 import (
 	"sort"
 
-	"neoyagami/gonum/graph"
-	"neoyagami/gonum/graph/iterator"
+	"github.com/neoyagami/gonum/graph"
+	"github.com/neoyagami/gonum/graph/iterator"
 )
 
 // YenKShortestPaths returns the k-shortest loopless paths from s to t in g.

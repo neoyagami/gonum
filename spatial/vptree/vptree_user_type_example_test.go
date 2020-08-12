@@ -9,7 +9,7 @@ import (
 	"log"
 	"math"
 
-	"neoyagami/gonum/spatial/vptree"
+	"github.com/neoyagami/gonum/spatial/vptree"
 )
 
 func Example_accessiblePublicTransport() {
