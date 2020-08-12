@@ -7,7 +7,7 @@ package testblas
 import (
 	"testing"
 
-	"gonum.org/v1/gonum/blas"
+	"neoyagami/gonum/blas"
 )
 
 var ztrmvTestCases = []struct {

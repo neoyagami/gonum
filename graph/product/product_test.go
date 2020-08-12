@@ -11,10 +11,10 @@ import (
 
 	"golang.org/x/exp/rand"
 
-	"gonum.org/v1/gonum/graph"
-	"gonum.org/v1/gonum/graph/encoding/dot"
-	"gonum.org/v1/gonum/graph/graphs/gen"
-	"gonum.org/v1/gonum/graph/simple"
+	"neoyagami/gonum/graph"
+	"neoyagami/gonum/graph/encoding/dot"
+	"neoyagami/gonum/graph/graphs/gen"
+	"neoyagami/gonum/graph/simple"
 )
 
 func (n Node) DOTID() string { return fmt.Sprintf("(%d,%d)", n.A.ID(), n.B.ID()) }

@@ -8,9 +8,9 @@ import (
 	"math"
 	"testing"
 
-	"gonum.org/v1/gonum/floats"
-	"gonum.org/v1/gonum/floats/scalar"
-	"gonum.org/v1/gonum/mat"
+	"neoyagami/gonum/floats"
+	"neoyagami/gonum/floats/scalar"
+	"neoyagami/gonum/mat"
 )
 
 func TestConstant(t *testing.T) {

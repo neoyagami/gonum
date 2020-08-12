@@ -10,10 +10,10 @@ import (
 
 	"golang.org/x/exp/rand"
 
-	"gonum.org/v1/gonum/floats"
-	"gonum.org/v1/gonum/floats/scalar"
-	"gonum.org/v1/gonum/mat"
-	"gonum.org/v1/gonum/spatial/r1"
+	"neoyagami/gonum/floats"
+	"neoyagami/gonum/floats/scalar"
+	"neoyagami/gonum/mat"
+	"neoyagami/gonum/spatial/r1"
 )
 
 func TestBhattacharyyaNormal(t *testing.T) {

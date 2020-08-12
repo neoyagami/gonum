@@ -7,7 +7,7 @@ package testlapack
 import (
 	"testing"
 
-	"gonum.org/v1/gonum/blas"
+	"neoyagami/gonum/blas"
 )
 
 type Dlauumer interface {

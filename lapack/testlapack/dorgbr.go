@@ -9,9 +9,9 @@ import (
 
 	"golang.org/x/exp/rand"
 
-	"gonum.org/v1/gonum/blas/blas64"
-	"gonum.org/v1/gonum/floats/scalar"
-	"gonum.org/v1/gonum/lapack"
+	"neoyagami/gonum/blas/blas64"
+	"neoyagami/gonum/floats/scalar"
+	"neoyagami/gonum/lapack"
 )
 
 type Dorgbrer interface {

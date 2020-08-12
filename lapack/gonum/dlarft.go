@@ -5,9 +5,9 @@
 package gonum
 
 import (
-	"gonum.org/v1/gonum/blas"
-	"gonum.org/v1/gonum/blas/blas64"
-	"gonum.org/v1/gonum/lapack"
+	"neoyagami/gonum/blas"
+	"neoyagami/gonum/blas/blas64"
+	"neoyagami/gonum/lapack"
 )
 
 // Dlarft forms the triangular factor T of a block reflector H, storing the answer

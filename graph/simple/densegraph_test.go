@@ -11,11 +11,11 @@ import (
 
 	"golang.org/x/exp/rand"
 
-	"gonum.org/v1/gonum/graph"
-	"gonum.org/v1/gonum/graph/internal/ordered"
-	"gonum.org/v1/gonum/graph/internal/set"
-	"gonum.org/v1/gonum/graph/simple"
-	"gonum.org/v1/gonum/graph/testgraph"
+	"neoyagami/gonum/graph"
+	"neoyagami/gonum/graph/internal/ordered"
+	"neoyagami/gonum/graph/internal/set"
+	"neoyagami/gonum/graph/simple"
+	"neoyagami/gonum/graph/testgraph"
 )
 
 func isZeroContiguousSet(nodes []graph.Node) bool {

@@ -7,10 +7,10 @@ package graph_test
 import (
 	"fmt"
 
-	"gonum.org/v1/gonum/graph"
-	"gonum.org/v1/gonum/graph/iterator"
-	"gonum.org/v1/gonum/graph/simple"
-	"gonum.org/v1/gonum/graph/topo"
+	"neoyagami/gonum/graph"
+	"neoyagami/gonum/graph/iterator"
+	"neoyagami/gonum/graph/simple"
+	"neoyagami/gonum/graph/topo"
 )
 
 // GraphNode is a node in an implicit graph.

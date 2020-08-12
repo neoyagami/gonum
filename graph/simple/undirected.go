@@ -7,9 +7,9 @@ package simple
 import (
 	"fmt"
 
-	"gonum.org/v1/gonum/graph"
-	"gonum.org/v1/gonum/graph/internal/uid"
-	"gonum.org/v1/gonum/graph/iterator"
+	"neoyagami/gonum/graph"
+	"neoyagami/gonum/graph/internal/uid"
+	"neoyagami/gonum/graph/iterator"
 )
 
 var (

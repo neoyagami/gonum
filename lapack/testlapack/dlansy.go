@@ -10,8 +10,8 @@ import (
 
 	"golang.org/x/exp/rand"
 
-	"gonum.org/v1/gonum/blas"
-	"gonum.org/v1/gonum/lapack"
+	"neoyagami/gonum/blas"
+	"neoyagami/gonum/lapack"
 )
 
 type Dlansyer interface {

@@ -10,7 +10,7 @@ import (
 
 	"golang.org/x/exp/rand"
 
-	"gonum.org/v1/gonum/integrate/testquad"
+	"neoyagami/gonum/integrate/testquad"
 )
 
 func TestSimpsons(t *testing.T) {

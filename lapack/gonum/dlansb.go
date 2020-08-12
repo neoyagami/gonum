@@ -7,8 +7,8 @@ package gonum
 import (
 	"math"
 
-	"gonum.org/v1/gonum/blas"
-	"gonum.org/v1/gonum/lapack"
+	"neoyagami/gonum/blas"
+	"neoyagami/gonum/lapack"
 )
 
 // Dlansb returns the given norm of an n×n symmetric band matrix with kd

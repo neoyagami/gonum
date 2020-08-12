@@ -8,7 +8,7 @@ import (
 	"fmt"
 	"log"
 
-	"gonum.org/v1/gonum/mat"
+	"neoyagami/gonum/mat"
 )
 
 func ExampleDense_Add() {

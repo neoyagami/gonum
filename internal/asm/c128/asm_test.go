@@ -11,8 +11,8 @@ import (
 
 	"golang.org/x/exp/rand"
 
-	"gonum.org/v1/gonum/cmplxs/cscalar"
-	"gonum.org/v1/gonum/floats/scalar"
+	"neoyagami/gonum/cmplxs/cscalar"
+	"neoyagami/gonum/floats/scalar"
 )
 
 const (

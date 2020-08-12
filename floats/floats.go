@@ -9,8 +9,8 @@ import (
 	"math"
 	"sort"
 
-	"gonum.org/v1/gonum/floats/scalar"
-	"gonum.org/v1/gonum/internal/asm/f64"
+	"neoyagami/gonum/floats/scalar"
+	"neoyagami/gonum/internal/asm/f64"
 )
 
 // Add adds, element-wise, the elements of s and dst, and stores the result in dst.

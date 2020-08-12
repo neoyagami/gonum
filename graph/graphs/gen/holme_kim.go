@@ -10,9 +10,9 @@ import (
 
 	"golang.org/x/exp/rand"
 
-	"gonum.org/v1/gonum/graph"
-	"gonum.org/v1/gonum/graph/simple"
-	"gonum.org/v1/gonum/stat/sampleuv"
+	"neoyagami/gonum/graph"
+	"neoyagami/gonum/graph/simple"
+	"neoyagami/gonum/stat/sampleuv"
 )
 
 // TunableClusteringScaleFree constructs a subgraph in the destination, dst, of order n.

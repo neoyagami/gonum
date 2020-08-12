@@ -11,8 +11,8 @@ import (
 
 	"golang.org/x/exp/rand"
 
-	"gonum.org/v1/gonum/floats"
-	"gonum.org/v1/gonum/floats/scalar"
+	"neoyagami/gonum/floats"
+	"neoyagami/gonum/floats/scalar"
 )
 
 func TestStudentsTProb(t *testing.T) {

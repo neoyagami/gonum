@@ -10,7 +10,7 @@ import (
 
 	"golang.org/x/exp/rand"
 
-	"gonum.org/v1/gonum/blas"
+	"neoyagami/gonum/blas"
 )
 
 type Ztrsmer interface {

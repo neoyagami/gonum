@@ -8,9 +8,9 @@ import (
 	"fmt"
 	"math"
 
-	"gonum.org/v1/gonum/floats/scalar"
-	"gonum.org/v1/gonum/num/dualquat"
-	"gonum.org/v1/gonum/num/quat"
+	"neoyagami/gonum/floats/scalar"
+	"neoyagami/gonum/num/dualquat"
+	"neoyagami/gonum/num/quat"
 )
 
 // point is a 3-dimensional point/vector.

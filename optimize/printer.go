@@ -11,7 +11,7 @@ import (
 	"os"
 	"time"
 
-	"gonum.org/v1/gonum/floats"
+	"neoyagami/gonum/floats"
 )
 
 var printerHeadings = [...]string{

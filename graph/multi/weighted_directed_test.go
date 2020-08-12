@@ -9,11 +9,11 @@ import (
 
 	"golang.org/x/exp/rand"
 
-	"gonum.org/v1/gonum/graph"
-	"gonum.org/v1/gonum/graph/internal/set"
-	"gonum.org/v1/gonum/graph/iterator"
-	"gonum.org/v1/gonum/graph/multi"
-	"gonum.org/v1/gonum/graph/testgraph"
+	"neoyagami/gonum/graph"
+	"neoyagami/gonum/graph/internal/set"
+	"neoyagami/gonum/graph/iterator"
+	"neoyagami/gonum/graph/multi"
+	"neoyagami/gonum/graph/testgraph"
 )
 
 func weightedDirectedBuilder(nodes []graph.Node, edges []testgraph.WeightedLine, self, absent float64) (g graph.Graph, n []graph.Node, e []testgraph.Edge, s, a float64, ok bool) {

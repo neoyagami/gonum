@@ -9,8 +9,8 @@ import (
 	"math"
 	"math/cmplx"
 
-	"gonum.org/v1/gonum/cmplxs/cscalar"
-	"gonum.org/v1/gonum/internal/asm/c128"
+	"neoyagami/gonum/cmplxs/cscalar"
+	"neoyagami/gonum/internal/asm/c128"
 )
 
 // Abs calculates the absolute values of the elements of s, and stores them in dst.

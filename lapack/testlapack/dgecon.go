@@ -10,8 +10,8 @@ import (
 
 	"golang.org/x/exp/rand"
 
-	"gonum.org/v1/gonum/floats"
-	"gonum.org/v1/gonum/lapack"
+	"neoyagami/gonum/floats"
+	"neoyagami/gonum/lapack"
 )
 
 type Dgeconer interface {

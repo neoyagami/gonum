@@ -9,8 +9,8 @@ import (
 	"math"
 	"math/cmplx"
 
-	"gonum.org/v1/gonum/dsp/fourier"
-	"gonum.org/v1/gonum/dsp/window"
+	"neoyagami/gonum/dsp/fourier"
+	"neoyagami/gonum/dsp/window"
 )
 
 func Example() {

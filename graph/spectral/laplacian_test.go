@@ -8,12 +8,12 @@ import (
 	"sort"
 	"testing"
 
-	"gonum.org/v1/gonum/floats/scalar"
-	"gonum.org/v1/gonum/graph"
-	"gonum.org/v1/gonum/graph/internal/ordered"
-	"gonum.org/v1/gonum/graph/iterator"
-	"gonum.org/v1/gonum/graph/simple"
-	"gonum.org/v1/gonum/mat"
+	"neoyagami/gonum/floats/scalar"
+	"neoyagami/gonum/graph"
+	"neoyagami/gonum/graph/internal/ordered"
+	"neoyagami/gonum/graph/iterator"
+	"neoyagami/gonum/graph/simple"
+	"neoyagami/gonum/mat"
 )
 
 var randomWalkLaplacianTests = []struct {

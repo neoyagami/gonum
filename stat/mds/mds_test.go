@@ -8,8 +8,8 @@ import (
 	"math"
 	"testing"
 
-	"gonum.org/v1/gonum/floats"
-	"gonum.org/v1/gonum/mat"
+	"neoyagami/gonum/floats"
+	"neoyagami/gonum/mat"
 )
 
 var torgersonScalingTests = []struct {

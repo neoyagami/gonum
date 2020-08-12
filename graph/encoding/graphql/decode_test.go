@@ -14,10 +14,10 @@ import (
 	"strings"
 	"testing"
 
-	"gonum.org/v1/gonum/graph"
-	"gonum.org/v1/gonum/graph/encoding"
-	"gonum.org/v1/gonum/graph/encoding/dot"
-	"gonum.org/v1/gonum/graph/simple"
+	"neoyagami/gonum/graph"
+	"neoyagami/gonum/graph/encoding"
+	"neoyagami/gonum/graph/encoding/dot"
+	"neoyagami/gonum/graph/simple"
 )
 
 var decodeTests = []struct {

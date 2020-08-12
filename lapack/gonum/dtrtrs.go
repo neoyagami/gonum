@@ -5,8 +5,8 @@
 package gonum
 
 import (
-	"gonum.org/v1/gonum/blas"
-	"gonum.org/v1/gonum/blas/blas64"
+	"neoyagami/gonum/blas"
+	"neoyagami/gonum/blas/blas64"
 )
 
 // Dtrtrs solves a triangular system of the form A * X = B or Aᵀ * X = B. Dtrtrs

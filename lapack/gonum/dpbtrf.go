@@ -5,8 +5,8 @@
 package gonum
 
 import (
-	"gonum.org/v1/gonum/blas"
-	"gonum.org/v1/gonum/blas/blas64"
+	"neoyagami/gonum/blas"
+	"neoyagami/gonum/blas/blas64"
 )
 
 // Dpbtrf computes the Cholesky factorization of an n×n symmetric positive

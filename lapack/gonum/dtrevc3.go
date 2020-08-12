@@ -7,9 +7,9 @@ package gonum
 import (
 	"math"
 
-	"gonum.org/v1/gonum/blas"
-	"gonum.org/v1/gonum/blas/blas64"
-	"gonum.org/v1/gonum/lapack"
+	"neoyagami/gonum/blas"
+	"neoyagami/gonum/blas/blas64"
+	"neoyagami/gonum/lapack"
 )
 
 // Dtrevc3 computes some or all of the right and/or left eigenvectors of an n×n

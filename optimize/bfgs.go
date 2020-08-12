@@ -7,7 +7,7 @@ package optimize
 import (
 	"math"
 
-	"gonum.org/v1/gonum/mat"
+	"neoyagami/gonum/mat"
 )
 
 var (

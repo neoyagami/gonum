@@ -8,8 +8,8 @@ import (
 	"math"
 	"testing"
 
-	"gonum.org/v1/gonum/floats"
-	"gonum.org/v1/gonum/floats/scalar"
+	"neoyagami/gonum/floats"
+	"neoyagami/gonum/floats/scalar"
 )
 
 func TestLegendre(t *testing.T) {

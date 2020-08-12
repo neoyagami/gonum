@@ -8,8 +8,8 @@ import (
 	"math"
 	"math/cmplx"
 
-	"gonum.org/v1/gonum/blas/cblas128"
-	"gonum.org/v1/gonum/floats/scalar"
+	"neoyagami/gonum/blas/cblas128"
+	"neoyagami/gonum/floats/scalar"
 )
 
 // CMatrix is the basic matrix interface type for complex matrices.

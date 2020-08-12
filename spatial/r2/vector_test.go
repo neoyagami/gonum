@@ -8,7 +8,7 @@ import (
 	"math"
 	"testing"
 
-	"gonum.org/v1/gonum/floats/scalar"
+	"neoyagami/gonum/floats/scalar"
 )
 
 func TestAdd(t *testing.T) {

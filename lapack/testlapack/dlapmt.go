@@ -8,7 +8,7 @@ import (
 	"fmt"
 	"testing"
 
-	"gonum.org/v1/gonum/blas/blas64"
+	"neoyagami/gonum/blas/blas64"
 )
 
 type Dlapmter interface {

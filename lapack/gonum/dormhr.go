@@ -4,7 +4,7 @@
 
 package gonum
 
-import "gonum.org/v1/gonum/blas"
+import "neoyagami/gonum/blas"
 
 // Dormhr multiplies an m×n general matrix C with an nq×nq orthogonal matrix Q
 //  Q * C   if side == blas.Left  and trans == blas.NoTrans,

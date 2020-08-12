@@ -7,7 +7,7 @@ package distmat
 import (
 	"golang.org/x/exp/rand"
 
-	"gonum.org/v1/gonum/mat"
+	"neoyagami/gonum/mat"
 )
 
 // UniformPermutation is a uniform distribution over the n!

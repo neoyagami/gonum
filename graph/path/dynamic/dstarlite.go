@@ -9,9 +9,9 @@ import (
 	"fmt"
 	"math"
 
-	"gonum.org/v1/gonum/graph"
-	"gonum.org/v1/gonum/graph/path"
-	"gonum.org/v1/gonum/graph/simple"
+	"neoyagami/gonum/graph"
+	"neoyagami/gonum/graph/path"
+	"neoyagami/gonum/graph/simple"
 )
 
 // DStarLite implements the D* Lite dynamic re-planning path search algorithm.

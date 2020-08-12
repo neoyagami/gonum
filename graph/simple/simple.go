@@ -7,7 +7,7 @@ package simple
 import (
 	"math"
 
-	"gonum.org/v1/gonum/graph"
+	"neoyagami/gonum/graph"
 )
 
 // Node is a simple graph node.

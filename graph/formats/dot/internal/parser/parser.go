@@ -16,8 +16,8 @@ import (
 	"fmt"
 	"strings"
 
-	parseError "gonum.org/v1/gonum/graph/formats/dot/internal/errors"
-	"gonum.org/v1/gonum/graph/formats/dot/internal/token"
+	parseError "neoyagami/gonum/graph/formats/dot/internal/errors"
+	"neoyagami/gonum/graph/formats/dot/internal/token"
 )
 
 const (

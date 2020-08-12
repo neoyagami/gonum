@@ -8,8 +8,8 @@ import (
 	"math"
 	"testing"
 
-	"gonum.org/v1/gonum/diff/fd"
-	"gonum.org/v1/gonum/floats"
+	"neoyagami/gonum/diff/fd"
+	"neoyagami/gonum/floats"
 )
 
 // function represents an objective function.

@@ -5,8 +5,8 @@
 package sampleuv_test
 
 import (
-	"gonum.org/v1/gonum/stat/distuv"
-	"gonum.org/v1/gonum/stat/sampleuv"
+	"neoyagami/gonum/stat/distuv"
+	"neoyagami/gonum/stat/sampleuv"
 )
 
 type ProposalDist struct {

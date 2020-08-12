@@ -9,9 +9,9 @@ import (
 
 	"golang.org/x/exp/rand"
 
-	"gonum.org/v1/gonum/graph"
-	"gonum.org/v1/gonum/spatial/barneshut"
-	"gonum.org/v1/gonum/spatial/r2"
+	"neoyagami/gonum/graph"
+	"neoyagami/gonum/spatial/barneshut"
+	"neoyagami/gonum/spatial/r2"
 )
 
 // EadesR2 implements the graph layout algorithm essentially as

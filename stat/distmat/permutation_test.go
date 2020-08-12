@@ -9,7 +9,7 @@ import (
 
 	"golang.org/x/exp/rand"
 
-	"gonum.org/v1/gonum/mat"
+	"neoyagami/gonum/mat"
 )
 
 func TestUniformPermutation(t *testing.T) {

@@ -10,8 +10,8 @@ import (
 
 	"golang.org/x/exp/rand"
 
-	"gonum.org/v1/gonum/floats/scalar"
-	"gonum.org/v1/gonum/mat"
+	"neoyagami/gonum/floats/scalar"
+	"neoyagami/gonum/mat"
 )
 
 func simpleAdjacency(n, wide int, diag bool) mat.Matrix {

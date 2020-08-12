@@ -12,8 +12,8 @@ import (
 
 	"golang.org/x/exp/rand"
 
-	"gonum.org/v1/gonum/blas"
-	"gonum.org/v1/gonum/blas/blas64"
+	"neoyagami/gonum/blas"
+	"neoyagami/gonum/blas/blas64"
 )
 
 func TestNewTriangular(t *testing.T) {

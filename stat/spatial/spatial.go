@@ -7,8 +7,8 @@ package spatial
 import (
 	"math"
 
-	"gonum.org/v1/gonum/mat"
-	"gonum.org/v1/gonum/stat"
+	"neoyagami/gonum/mat"
+	"neoyagami/gonum/stat"
 )
 
 // TODO(kortschak): Implement weighted routines.

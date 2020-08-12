@@ -12,8 +12,8 @@ import (
 
 	"golang.org/x/exp/rand"
 
-	"gonum.org/v1/gonum/floats/scalar"
-	"gonum.org/v1/gonum/spatial/r3"
+	"neoyagami/gonum/floats/scalar"
+	"neoyagami/gonum/spatial/r3"
 )
 
 type particle3 struct {

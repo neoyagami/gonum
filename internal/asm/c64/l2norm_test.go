@@ -9,9 +9,9 @@ import (
 	"math"
 	"testing"
 
-	. "gonum.org/v1/gonum/internal/asm/c64"
-	"gonum.org/v1/gonum/internal/cmplx64"
-	"gonum.org/v1/gonum/internal/math32"
+	. "neoyagami/gonum/internal/asm/c64"
+	"neoyagami/gonum/internal/cmplx64"
+	"neoyagami/gonum/internal/math32"
 )
 
 // nanwith copied from floats package

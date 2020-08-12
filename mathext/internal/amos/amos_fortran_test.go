@@ -13,7 +13,7 @@ import (
 
 	"golang.org/x/exp/rand"
 
-	"gonum.org/v1/gonum/mathext/internal/amos/amoslib"
+	"neoyagami/gonum/mathext/internal/amos/amoslib"
 )
 
 // BUG(kortschak): Some tests here comparing the direct Go translation

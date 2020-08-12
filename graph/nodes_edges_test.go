@@ -8,10 +8,10 @@ import (
 	"reflect"
 	"testing"
 
-	"gonum.org/v1/gonum/graph"
-	"gonum.org/v1/gonum/graph/iterator"
-	"gonum.org/v1/gonum/graph/multi"
-	"gonum.org/v1/gonum/graph/simple"
+	"neoyagami/gonum/graph"
+	"neoyagami/gonum/graph/iterator"
+	"neoyagami/gonum/graph/multi"
+	"neoyagami/gonum/graph/simple"
 )
 
 // nodes

@@ -7,10 +7,10 @@ package mat
 import (
 	"math"
 
-	"gonum.org/v1/gonum/blas"
-	"gonum.org/v1/gonum/blas/blas64"
-	"gonum.org/v1/gonum/lapack"
-	"gonum.org/v1/gonum/lapack/lapack64"
+	"neoyagami/gonum/blas"
+	"neoyagami/gonum/blas/blas64"
+	"neoyagami/gonum/lapack"
+	"neoyagami/gonum/lapack/lapack64"
 )
 
 const badQR = "mat: invalid QR factorization"

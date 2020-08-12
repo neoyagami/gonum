@@ -9,9 +9,9 @@ import (
 
 	"golang.org/x/exp/rand"
 
-	"gonum.org/v1/gonum/floats"
-	"gonum.org/v1/gonum/graph"
-	"gonum.org/v1/gonum/mat"
+	"neoyagami/gonum/floats"
+	"neoyagami/gonum/graph"
+	"neoyagami/gonum/mat"
 )
 
 // PageRank returns the PageRank weights for nodes of the directed graph g

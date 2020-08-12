@@ -7,8 +7,8 @@ package graph6_test
 import (
 	"fmt"
 
-	"gonum.org/v1/gonum/graph"
-	"gonum.org/v1/gonum/graph/encoding/graph6"
+	"neoyagami/gonum/graph"
+	"neoyagami/gonum/graph/encoding/graph6"
 )
 
 func ExampleGraph() {

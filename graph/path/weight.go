@@ -7,8 +7,8 @@ package path
 import (
 	"math"
 
-	"gonum.org/v1/gonum/graph"
-	"gonum.org/v1/gonum/graph/traverse"
+	"neoyagami/gonum/graph"
+	"neoyagami/gonum/graph/traverse"
 )
 
 // Weighted is a weighted graph. It is a subset of graph.Weighted.

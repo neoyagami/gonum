@@ -5,8 +5,8 @@
 package gonum
 
 import (
-	"gonum.org/v1/gonum/blas"
-	"gonum.org/v1/gonum/blas/testblas"
+	"neoyagami/gonum/blas"
+	"neoyagami/gonum/blas/testblas"
 )
 
 const (

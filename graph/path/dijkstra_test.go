@@ -10,11 +10,11 @@ import (
 	"sort"
 	"testing"
 
-	"gonum.org/v1/gonum/graph"
-	"gonum.org/v1/gonum/graph/internal/ordered"
-	"gonum.org/v1/gonum/graph/path/internal/testgraphs"
-	"gonum.org/v1/gonum/graph/simple"
-	"gonum.org/v1/gonum/graph/traverse"
+	"neoyagami/gonum/graph"
+	"neoyagami/gonum/graph/internal/ordered"
+	"neoyagami/gonum/graph/path/internal/testgraphs"
+	"neoyagami/gonum/graph/simple"
+	"neoyagami/gonum/graph/traverse"
 )
 
 func TestDijkstraFrom(t *testing.T) {

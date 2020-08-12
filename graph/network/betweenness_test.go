@@ -10,9 +10,9 @@ import (
 	"sort"
 	"testing"
 
-	"gonum.org/v1/gonum/floats/scalar"
-	"gonum.org/v1/gonum/graph/path"
-	"gonum.org/v1/gonum/graph/simple"
+	"neoyagami/gonum/floats/scalar"
+	"neoyagami/gonum/graph/path"
+	"neoyagami/gonum/graph/simple"
 )
 
 var betweennessTests = []struct {

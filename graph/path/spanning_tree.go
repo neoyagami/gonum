@@ -9,8 +9,8 @@ import (
 	"math"
 	"sort"
 
-	"gonum.org/v1/gonum/graph"
-	"gonum.org/v1/gonum/graph/simple"
+	"neoyagami/gonum/graph"
+	"neoyagami/gonum/graph/simple"
 )
 
 // WeightedBuilder is a type that can add nodes and weighted edges.

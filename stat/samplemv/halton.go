@@ -9,8 +9,8 @@ import (
 
 	"golang.org/x/exp/rand"
 
-	"gonum.org/v1/gonum/mat"
-	"gonum.org/v1/gonum/stat/distmv"
+	"neoyagami/gonum/mat"
+	"neoyagami/gonum/stat/distmv"
 )
 
 // Halton is a type for sampling using the Halton sequence from

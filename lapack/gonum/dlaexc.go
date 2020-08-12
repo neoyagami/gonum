@@ -7,9 +7,9 @@ package gonum
 import (
 	"math"
 
-	"gonum.org/v1/gonum/blas"
-	"gonum.org/v1/gonum/blas/blas64"
-	"gonum.org/v1/gonum/lapack"
+	"neoyagami/gonum/blas"
+	"neoyagami/gonum/blas/blas64"
+	"neoyagami/gonum/lapack"
 )
 
 // Dlaexc swaps two adjacent diagonal blocks of order 1 or 2 in an n×n upper

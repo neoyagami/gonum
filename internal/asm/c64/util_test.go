@@ -7,7 +7,7 @@ package c64
 import (
 	"testing"
 
-	"gonum.org/v1/gonum/cmplxs/cscalar"
+	"neoyagami/gonum/cmplxs/cscalar"
 )
 
 func same(x, y complex64) bool {
